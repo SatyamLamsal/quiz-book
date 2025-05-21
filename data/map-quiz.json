@@ -10,8 +10,8 @@
     "answer": "Nepal"
   },
   {
-    "image": "../images/Japan.png",
-    "options": ["Japan", "South Korea", "Thailand", "Vietnam"],
-    "answer": "Japan"
+    "image": "../images/America.png",
+    "options": ["America", "South Korea", "Thailand", "Vietnam"],
+    "answer": "America"
   }
 ]

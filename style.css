@@ -1,0 +1,23 @@
+body {
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  background: #ebc8c8;
+  padding: 20px;
+}
+.categories a {
+  display: block;
+  margin: 15px;
+  font-size: 1.2em;
+  text-decoration: none;
+  background: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+.categories a:hover {
+  background: #0056b3;
+}
