@@ -1,0 +1,17 @@
+[
+  {
+    "image": "../images/India.png",
+    "options": ["India", "Brazil", "USA", "France"],
+    "answer": "India"
+  },
+  {
+    "image": "../images/Nepal.png",
+    "options": ["Nepal", "China", "Russia", "Germany"],
+    "answer": "Nepal"
+  },
+  {
+    "image": "../images/Japan.png",
+    "options": ["Japan", "South Korea", "Thailand", "Vietnam"],
+    "answer": "Japan"
+  }
+]
