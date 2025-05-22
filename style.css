@@ -28,5 +28,14 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
   height: 100vh;
+  border: 2px solid #e6c6c6;
+
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  background: #f8d7da;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+
 }
