@@ -1,6 +1,6 @@
 body {
             font-family: Arial, sans-serif;
-            background-color: #faf5f5;
+            background-color: #f0d5d5;
             margin: 0;
             padding: 0;
             display: flex;
@@ -19,17 +19,31 @@ body {
             animation: fadeIn 3s ease-in-out;
 }
       
+.container img{
+    width:200px;
+    height:180px;
+}
 
 .categories a {
   display: block;
   margin: 15px;
   font-size: 1.2em;
   text-decoration: none;
-  background: #007bff;
+  background: #464a4e;
   color: white;
   padding: 10px;
   border-radius: 8px;
 }
+
 .categories a:hover {
   background: #0056b3;
 }
+
+#map-image {
+      border:1px solid black;
+      background-color: rgb(255, 255, 255);
+      padding: 5px;
+      width:250px;
+      height:200px;
+}
+
