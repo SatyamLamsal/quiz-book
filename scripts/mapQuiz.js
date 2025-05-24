@@ -28,6 +28,7 @@ function loadQuestion() {
   img.src = q.image;
   opts.innerHTML = "";
 
+
   q.options.forEach(option => {
     const btn = document.createElement("button");
     btn.textContent = option;
@@ -37,6 +38,8 @@ function loadQuestion() {
     opts.appendChild(btn);
   });
 }
+
+
 
 function nextQuestion() {
   current++;
