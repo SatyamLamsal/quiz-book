@@ -28,18 +28,25 @@ function loadQuestion() {
   img.src = q.image;
   opts.innerHTML = "";
 
+ q.options.forEach(option => {
+  const btn = document.createElement("button");
+  btn.textContent = option;
+  btn.onclick = () => {
+    if (option === q.answer) {
+      btn.classList.add("correct");
+      result.textContent = "✅ Correct!";
+      // Disable all buttons after correct answer
+      Array.from(opts.children).forEach(b => b.disabled = true);
+    } else {
+      btn.classList.add("incorrect");
+      btn.disabled = true; // Only disable the clicked incorrect button
+      result.textContent = "❌ Wrong! Try again.";
+    }
+  };
+  opts.appendChild(btn);
+});
 
-  q.options.forEach(option => {
-    const btn = document.createElement("button");
-    btn.textContent = option;
-    btn.onclick = () => {
-      result.textContent = option === q.answer ? "✅ Correct!" : "❌ Wrong!";
-    };
-    opts.appendChild(btn);
-  });
 }
-
-
 
 function nextQuestion() {
   current++;

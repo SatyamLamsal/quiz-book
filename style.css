@@ -70,7 +70,30 @@ body {
     
 }
 
-
+#options button.correct {
+    background-color: #4caf50 !important; /* green */
+    color: #fff !important;
+}
+#options button.incorrect {
+    background-color: #f44336 !important; /* red */
+    color: #fff !important;
+}
 #options button:hover{
+    background-color: #70b3fc;
+}
+
+#NextButton {
+    background-color: #c6ced6;
+    padding: 10px;
+    color: rgb(1, 1, 15);
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+
+}
+
+#NextButton:hover {
     background-color: #70b3fc;
 }
