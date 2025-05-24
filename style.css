@@ -40,11 +40,8 @@ body {
 }
 
 #map-image {
-      border:1px solid black;
-      background-color: rgb(255, 255, 255);
-      padding: 5px;
-      width:250px;
-      height:200px;
+  height:auto;
+  width:100%;
 }
 
 #options{
@@ -61,16 +58,19 @@ body {
 
 
 #options button{
-    background-color: #83868a;
+    background-color: #c6ced6;
 
     padding: 10px;
-    color: white;
+    color: rgb(1, 1, 15);
+    font-weight: bold;
     padding: 10px;
     border-radius: 8px;
     border: none;
     cursor: pointer;
+    
 }
 
+
 #options button:hover{
-    background-color: #0056b3;
+    background-color: #70b3fc;
 }
