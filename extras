@@ -1,7 +1,0 @@
-const optionsButton = document.querySelector("#options button");
-
-changeTileColor = ()=>{
-  optionsButton.style.backgroundColor =  "#70b3fc";
-  optionsButton.removeListener("click", changeTileColor);
-  }
-optionsButton.addEventListener("click", changeTileColor);

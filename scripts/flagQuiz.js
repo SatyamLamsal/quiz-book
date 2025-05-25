@@ -3,6 +3,7 @@ let current = 0;
 const img = document.getElementById("map-image");
 const opts = document.getElementById("options");
 const result = document.getElementById("result");
+const nextBtn = document.getElementById("NextButton");
 
 fetch('../data/map-quiz.json')
   .then(res => res.json())
@@ -20,6 +21,7 @@ function loadQuestion() {
     result.textContent = "Quiz finished!";
     opts.innerHTML = "";
     img.style.display = "none";
+    nextBtn.disabled = true; // Hide or disable Next at end
     return;
   }
 
@@ -28,25 +30,28 @@ function loadQuestion() {
   img.src = q.image;
   opts.innerHTML = "";
 
- q.options.forEach(option => {
-  const btn = document.createElement("button");
-  btn.textContent = option;
-  btn.onclick = () => {
-    if (option === q.answer) {
-      btn.classList.add("correct");
-      result.textContent = "✅ Correct!";
-      // Disable all buttons after correct answer
-      Array.from(opts.children).forEach(b => b.disabled = true);
-    } else {
-      btn.classList.add("incorrect");
-      btn.disabled = true; // Only disable the clicked incorrect button
-      result.textContent = "❌ Wrong! Try again.";
-    }
-  };
-  opts.appendChild(btn);
-});
+  nextBtn.disabled = true; // Disable Next button at start
 
+  q.options.forEach(option => {
+    const btn = document.createElement("button");
+    btn.textContent = option;
+    btn.onclick = () => {
+      if (option === q.answer) {
+        btn.classList.add("correct");
+        result.textContent = "✅ Correct!";
+        Array.from(opts.children).forEach(b => b.disabled = true);
+        nextBtn.disabled = false; // Enable Next button only after correct
+      } else {
+        btn.classList.add("incorrect");
+        btn.disabled = true;
+        result.textContent = "❌ Wrong! Try again.";
+      }
+    };
+    opts.appendChild(btn);
+  });
 }
+
+
 
 function nextQuestion() {
   current++;
