@@ -4,7 +4,7 @@
     "options": [
       "Kazakhstan",
       "Aruba",
-      "Korea, Republic of",
+      "Republic of Korea",
       "Suriname"
     ],
     "answer": "Aruba"
@@ -52,7 +52,7 @@
   {
     "image": "../images/Albania.svg",
     "options": [
-      "Venezuela, Bolivarian Republic of",
+      "Bolivarian Republic of Venezuela",
       "Gambia",
       "Belarus",
       "Albania"
@@ -200,7 +200,7 @@
     "answer": "Benin"
   },
   {
-    "image": "../images/Bonaire,_Sint_Eustatius_and_Saba.svg",
+    "image": "../images/Bonaire_Sint_Eustatius_and_Saba.svg",
     "options": [
       "Mozambique",
       "Bonaire, Sint Eustatius and Saba",
@@ -310,14 +310,14 @@
     "answer": "Bermuda"
   },
   {
-    "image": "../images/Bolivia,_Plurinational_State_of.svg",
+    "image": "../images/Plurinational_State_of_Bolovia.svg",
     "options": [
       "Cameroon",
-      "Bolivia, Plurinational State of",
+      "Plurinational State of Bolivia",
       "American Samoa",
       "Tunisia"
     ],
-    "answer": "Bolivia, Plurinational State of"
+    "answer": "Plurinational State of Bolivia"
   },
   {
     "image": "../images/Brazil.svg",
@@ -460,14 +460,14 @@
     "answer": "Cameroon"
   },
   {
-    "image": "../images/Congo,_The_Democratic_Republic_of_the.svg",
+    "image": "../images/The_Democratic_Republic_of_the_Congo.svg",
     "options": [
       "Afghanistan",
       "Nigeria",
-      "Congo, The Democratic Republic of the",
+      "The Democratic Republic of Congo",
       "Åland Islands"
     ],
-    "answer": "Congo, The Democratic Republic of the"
+    "answer": "The Democratic Republic of the Congo"
   },
   {
     "image": "../images/Congo.svg",
@@ -665,7 +665,7 @@
       "Egypt",
       "Romania",
       "Cabo Verde",
-      "Bolivia, Plurinational State of"
+      "Plurinational State of Bolivia"
     ],
     "answer": "Egypt"
   },
@@ -714,7 +714,7 @@
     "options": [
       "Equatorial Guinea",
       "Ethiopia",
-      "Bolivia, Plurinational State of",
+      "Plurinational State of Bolivia",
       "Iraq"
     ],
     "answer": "Ethiopia"
@@ -770,14 +770,14 @@
     "answer": "Faroe Islands"
   },
   {
-    "image": "../images/Micronesia,_Federated_States_of.svg",
+    "image": "../images/Federated_States_of_Micronesia.svg",
     "options": [
       "Luxembourg",
-      "Congo, The Democratic Republic of the",
+      "The Democratic Republic of the Congo",
       "Gabon",
-      "Micronesia, Federated States of"
+      "Federated States of Micronesia.svg"
     ],
-    "answer": "Micronesia, Federated States of"
+    "answer": "Federated States of Micronesia.svg"
   },
   {
     "image": "../images/Gabon.svg",
@@ -953,7 +953,7 @@
     "image": "../images/Guyana.svg",
     "options": [
       "Puerto Rico",
-      "Palestine, State of",
+      "State of Palestine",
       "Egypt",
       "Guyana"
     ],
@@ -1070,14 +1070,14 @@
     "answer": "Ireland"
   },
   {
-    "image": "../images/Iran,_Islamic_Republic_of.svg",
+    "image": "../images/Islamic_Republic_of_Iran.svg",
     "options": [
       "Canada",
-      "Iran, Islamic Republic of",
+      "Islamic Republic of Iran",
       "French Polynesia",
       "Kenya"
     ],
-    "answer": "Iran, Islamic Republic of"
+    "answer": "Islamic Republic of Iran"
   },
   {
     "image": "../images/Iraq.svg",
@@ -1172,7 +1172,7 @@
   {
     "image": "../images/Kenya.svg",
     "options": [
-      "Korea, Republic of",
+      "Republic of Korea",
       "Kenya",
       "Gibraltar",
       "Rwanda"
@@ -1220,21 +1220,21 @@
     "answer": "Saint Kitts and Nevis"
   },
   {
-    "image": "../images/Korea,_Republic_of.svg",
+    "image": "../images/Republic_of_Korea.svg",
     "options": [
-      "Korea, Republic of",
+      "Republic of Korea",
       "Denmark",
       "Palau",
       "Tonga"
     ],
-    "answer": "Korea, Republic of"
+    "answer": "Republic of Korea"
   },
   {
     "image": "../images/Kuwait.svg",
     "options": [
       "Barbados",
       "Kuwait",
-      "Iran, Islamic Republic of",
+      "Islamic Republic of Iran",
       "Hungary"
     ],
     "answer": "Kuwait"
@@ -1262,7 +1262,7 @@
   {
     "image": "../images/Liberia.svg",
     "options": [
-      "Korea, Republic of",
+      "Republic of Korea",
       "Seychelles",
       "Liberia",
       "Greenland"
@@ -1390,14 +1390,14 @@
     "answer": "Monaco"
   },
   {
-    "image": "../images/Moldova,_Republic_of.svg",
+    "image": "../images/Republic_of_Moldova.svg",
     "options": [
       "Solomon Islands",
       "French Guiana",
-      "Moldova, Republic of",
+      "Republic of Moldova",
       "Saint Helena, Ascension and Tristan da Cunha"
     ],
-    "answer": "Moldova, Republic of"
+    "answer": "Republic of Moldova"
   },
   {
     "image": "../images/Madagascar.svg",
@@ -1522,7 +1522,7 @@
   {
     "image": "../images/Mauritania.svg",
     "options": [
-      "Korea, Democratic People's Republic of",
+      "Democratic People's Republic of Korea",
       "Mauritania",
       "Congo",
       "North Macedonia"
@@ -1810,14 +1810,14 @@
     "answer": "Puerto Rico"
   },
   {
-    "image": "../images/Korea,_Democratic_People's_Republic_of.svg",
+    "image": "../images/Democratic_People's_Republic_of_Korea.svg",
     "options": [
-      "Korea, Democratic People's Republic of",
+      "Democratic People's Republic of Korea",
       "Czechia",
       "Lao People's Democratic Republic",
       "Austria"
     ],
-    "answer": "Korea, Democratic People's Republic of"
+    "answer": "Democratic People's Republic of Korea"
   },
   {
     "image": "../images/Portugal.svg",
@@ -1833,21 +1833,21 @@
     "image": "../images/Paraguay.svg",
     "options": [
       "Paraguay",
-      "Iran, Islamic Republic of",
-      "Venezuela, Bolivarian Republic of",
+      "Islamic Republic of Iran",
+      "Bolivarian Republic of Venezuela",
       "Anguilla"
     ],
     "answer": "Paraguay"
   },
   {
-    "image": "../images/Palestine,_State_of.svg",
+    "image": "../images/State_of_Palestine.svg",
     "options": [
       "Mexico",
       "Mozambique",
-      "Palestine, State of",
+      "State of Palestine",
       "Faroe Islands"
     ],
-    "answer": "Palestine, State of"
+    "answer": "State of Palestine"
   },
   {
     "image": "../images/French_Polynesia.svg",
@@ -1862,7 +1862,7 @@
   {
     "image": "../images/Qatar.svg",
     "options": [
-      "Palestine, State of",
+      "State of Palestine",
       "Aruba",
       "Qatar",
       "Zambia"
@@ -1883,7 +1883,7 @@
     "image": "../images/Romania.svg",
     "options": [
       "Solomon Islands",
-      "Venezuela, Bolivarian Republic of",
+      "Bolivarian Republic of Venezuela",
       "Romania",
       "Latvia"
     ],
@@ -1960,7 +1960,7 @@
     "answer": "South Georgia and the South Sandwich Islands"
   },
   {
-    "image": "../images/Saint_Helena,_Ascension_and_Tristan_da_Cunha.svg",
+    "image": "../images/Saint_Helena_Ascension_and_Tristan_da_Cunha.svg",
     "options": [
       "Benin",
       "Réunion",
@@ -2044,7 +2044,7 @@
     "options": [
       "Cook Islands",
       "Gabon",
-      "Tanzania, United Republic of",
+      "United Republic of Tanzania",
       "Serbia"
     ],
     "answer": "Serbia"
@@ -2134,7 +2134,7 @@
     "options": [
       "Seychelles",
       "France",
-      "Palestine, State of",
+      "State of Palestine",
       "Lebanon"
     ],
     "answer": "Seychelles"
@@ -2192,7 +2192,7 @@
   {
     "image": "../images/Tajikistan.svg",
     "options": [
-      "Iran, Islamic Republic of",
+      "Islamic Republic of Iran",
       "Nicaragua",
       "Algeria",
       "Tajikistan"
@@ -2242,7 +2242,7 @@
   {
     "image": "../images/Trinidad_and_Tobago.svg",
     "options": [
-      "Iran, Islamic Republic of",
+      "Islamic Republic of Iran",
       "Syrian Arab Republic",
       "Grenada",
       "Trinidad and Tobago"
@@ -2280,7 +2280,7 @@
     "answer": "Tuvalu"
   },
   {
-    "image": "../images/Taiwan,_Province_of_China.svg",
+    "image": "../images/Taiwan_Province_of_China.svg",
     "options": [
       "Jersey",
       "Taiwan, Province of China",
@@ -2290,14 +2290,14 @@
     "answer": "Taiwan, Province of China"
   },
   {
-    "image": "../images/Tanzania,_United_Republic_of.svg",
+    "image": "../images/United_Republic_of_Tanzania.svg",
     "options": [
       "Cayman Islands",
       "Togo",
       "Lesotho",
-      "Tanzania, United Republic of"
+      "United Republic of Tanzania"
     ],
-    "answer": "Tanzania, United Republic of"
+    "answer": "United Republic of Tanzania"
   },
   {
     "image": "../images/Uganda.svg",
@@ -2380,17 +2380,17 @@
     "answer": "Saint Vincent and the Grenadines"
   },
   {
-    "image": "../images/Venezuela,_Bolivarian_Republic_of.svg",
+    "image": "../images/Bolivarian_Republic_of_Venezuela.svg",
     "options": [
       "Madagascar",
-      "Venezuela, Bolivarian Republic of",
+      "Bolivarian Republic of Venezuela",
       "Kenya",
       "Slovakia"
     ],
-    "answer": "Venezuela, Bolivarian Republic of"
+    "answer": "Bolivarian Republic of Venezuela"
   },
   {
-    "image": "../images/Virgin_Islands,_British.svg",
+    "image": "../images/Virgin_Islands_British.svg",
     "options": [
       "Ethiopia",
       "Saint Pierre and Miquelon",
@@ -2400,7 +2400,7 @@
     "answer": "Virgin Islands, British"
   },
   {
-    "image": "../images/Virgin_Islands,_U.S..svg",
+    "image": "../images/Virgin_Islands_U.S..svg",
     "options": [
       "Pakistan",
       "Kuwait",
