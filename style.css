@@ -69,11 +69,17 @@ body {
 
 
 #options button::before {
+
     content: "🏳️ ";
     margin-right: 8px;
+   
 }
 
 
+#options.Capital button::before {
+    color: gold;
+    content: "★ ";
+}
 
 
 
@@ -144,8 +150,11 @@ body {
 }
 
 #question-text{
-    text-align:left;
-    color: #f3f4f6;
-    font-size: 1.2em;
+    text-align:center;
+    border: 1px solid #f5f5f5; /* blue border */
+    padding: 10px;
+    font-weight: bold;
+    color: gold;
+    font-size: 1.5em;
     margin-bottom: 20px;
 }
