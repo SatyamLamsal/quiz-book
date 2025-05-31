@@ -1,6 +1,6 @@
 [
   {
-    "image": "../images/Aruba.svg",
+    "image": "../images/CountryFlags/Aruba.svg",
     "options": [
       "Kazakhstan",
       "Aruba",
@@ -10,7 +10,7 @@
     "answer": "Aruba"
   },
   {
-    "image": "../images/Afghanistan.svg",
+    "image": "../images/CountryFlags/Afghanistan.svg",
     "options": [
       "Pitcairn",
       "Afghanistan",
@@ -20,7 +20,7 @@
     "answer": "Afghanistan"
   },
   {
-    "image": "../images/Angola.svg",
+    "image": "../images/CountryFlags/Angola.svg",
     "options": [
       "India",
       "Angola",
@@ -30,7 +30,7 @@
     "answer": "Angola"
   },
   {
-    "image": "../images/Anguilla.svg",
+    "image": "../images/CountryFlags/Anguilla.svg",
     "options": [
       "Anguilla",
       "Lithuania",
@@ -40,7 +40,7 @@
     "answer": "Anguilla"
   },
   {
-    "image": "../images/Åland_Islands.svg",
+    "image": "../images/CountryFlags/Åland_Islands.svg",
     "options": [
       "Åland Islands",
       "San Marino",
@@ -50,7 +50,7 @@
     "answer": "Åland Islands"
   },
   {
-    "image": "../images/Albania.svg",
+    "image": "../images/CountryFlags/Albania.svg",
     "options": [
       "Bolivarian Republic of Venezuela",
       "Gambia",
@@ -60,7 +60,7 @@
     "answer": "Albania"
   },
   {
-    "image": "../images/Andorra.svg",
+    "image": "../images/CountryFlags/Andorra.svg",
     "options": [
       "Comoros",
       "Japan",
@@ -70,7 +70,7 @@
     "answer": "Andorra"
   },
   {
-    "image": "../images/United_Arab_Emirates.svg",
+    "image": "../images/CountryFlags/United_Arab_Emirates.svg",
     "options": [
       "French Polynesia",
       "Mozambique",
@@ -80,7 +80,7 @@
     "answer": "United Arab Emirates"
   },
   {
-    "image": "../images/Argentina.svg",
+    "image": "../images/CountryFlags/Argentina.svg",
     "options": [
       "Brunei Darussalam",
       "Eritrea",
@@ -90,7 +90,7 @@
     "answer": "Argentina"
   },
   {
-    "image": "../images/Armenia.svg",
+    "image": "../images/CountryFlags/Armenia.svg",
     "options": [
       "Fiji",
       "Guyana",
@@ -100,7 +100,7 @@
     "answer": "Armenia"
   },
   {
-    "image": "../images/American_Samoa.svg",
+    "image": "../images/CountryFlags/American_Samoa.svg",
     "options": [
       "Trinidad and Tobago",
       "American Samoa",
@@ -110,7 +110,7 @@
     "answer": "American Samoa"
   },
   {
-    "image": "../images/Antarctica.svg",
+    "image": "../images/CountryFlags/Antarctica.svg",
     "options": [
       "Saudi Arabia",
       "Antarctica",
@@ -120,7 +120,7 @@
     "answer": "Antarctica"
   },
   {
-    "image": "../images/French_Southern_Territories.svg",
+    "image": "../images/CountryFlags/French_Southern_Territories.svg",
     "options": [
       "Viet Nam",
       "Dominican Republic",
@@ -130,7 +130,7 @@
     "answer": "French Southern Territories"
   },
   {
-    "image": "../images/Antigua_and_Barbuda.svg",
+    "image": "../images/CountryFlags/Antigua_and_Barbuda.svg",
     "options": [
       "Turkmenistan",
       "Antigua and Barbuda",
@@ -140,7 +140,7 @@
     "answer": "Antigua and Barbuda"
   },
   {
-    "image": "../images/Australia.svg",
+    "image": "../images/CountryFlags/Australia.svg",
     "options": [
       "Turks and Caicos Islands",
       "Jordan",
@@ -150,7 +150,7 @@
     "answer": "Australia"
   },
   {
-    "image": "../images/Austria.svg",
+    "image": "../images/CountryFlags/Austria.svg",
     "options": [
       "Austria",
       "New Zealand",
@@ -160,7 +160,7 @@
     "answer": "Austria"
   },
   {
-    "image": "../images/Azerbaijan.svg",
+    "image": "../images/CountryFlags/Azerbaijan.svg",
     "options": [
       "Senegal",
       "Azerbaijan",
@@ -170,7 +170,7 @@
     "answer": "Azerbaijan"
   },
   {
-    "image": "../images/Burundi.svg",
+    "image": "../images/CountryFlags/Burundi.svg",
     "options": [
       "Burundi",
       "Mongolia",
@@ -180,7 +180,7 @@
     "answer": "Burundi"
   },
   {
-    "image": "../images/Belgium.svg",
+    "image": "../images/CountryFlags/Belgium.svg",
     "options": [
       "Brazil",
       "Ecuador",
@@ -190,7 +190,7 @@
     "answer": "Belgium"
   },
   {
-    "image": "../images/Benin.svg",
+    "image": "../images/CountryFlags/Benin.svg",
     "options": [
       "Kiribati",
       "Benin",
@@ -200,7 +200,7 @@
     "answer": "Benin"
   },
   {
-    "image": "../images/Bonaire_Sint_Eustatius_and_Saba.svg",
+    "image": "../images/CountryFlags/Bonaire_Sint_Eustatius_and_Saba.svg",
     "options": [
       "Mozambique",
       "Bonaire, Sint Eustatius and Saba",
@@ -210,7 +210,7 @@
     "answer": "Bonaire, Sint Eustatius and Saba"
   },
   {
-    "image": "../images/Burkina_Faso.svg",
+    "image": "../images/CountryFlags/Burkina_Faso.svg",
     "options": [
       "Kiribati",
       "Jamaica",
@@ -220,7 +220,7 @@
     "answer": "Burkina Faso"
   },
   {
-    "image": "../images/Bangladesh.svg",
+    "image": "../images/CountryFlags/Bangladesh.svg",
     "options": [
       "Seychelles",
       "Belgium",
@@ -230,7 +230,7 @@
     "answer": "Bangladesh"
   },
   {
-    "image": "../images/Bulgaria.svg",
+    "image": "../images/CountryFlags/Bulgaria.svg",
     "options": [
       "Bulgaria",
       "Uruguay",
@@ -240,7 +240,7 @@
     "answer": "Bulgaria"
   },
   {
-    "image": "../images/Bahrain.svg",
+    "image": "../images/CountryFlags/Bahrain.svg",
     "options": [
       "Honduras",
       "Brunei Darussalam",
@@ -250,7 +250,7 @@
     "answer": "Bahrain"
   },
   {
-    "image": "../images/Bahamas.svg",
+    "image": "../images/CountryFlags/Bahamas.svg",
     "options": [
       "Guadeloupe",
       "Bahamas",
@@ -260,7 +260,7 @@
     "answer": "Bahamas"
   },
   {
-    "image": "../images/Bosnia_and_Herzegovina.svg",
+    "image": "../images/CountryFlags/Bosnia_and_Herzegovina.svg",
     "options": [
       "Bosnia and Herzegovina",
       "Portugal",
@@ -270,7 +270,7 @@
     "answer": "Bosnia and Herzegovina"
   },
   {
-    "image": "../images/Saint_Barthélemy.svg",
+    "image": "../images/CountryFlags/Saint_Barthélemy.svg",
     "options": [
       "Saint Barthélemy",
       "Nepal",
@@ -280,7 +280,7 @@
     "answer": "Saint Barthélemy"
   },
   {
-    "image": "../images/Belarus.svg",
+    "image": "../images/CountryFlags/Belarus.svg",
     "options": [
       "Norfolk Island",
       "Belarus",
@@ -290,7 +290,7 @@
     "answer": "Belarus"
   },
   {
-    "image": "../images/Belize.svg",
+    "image": "../images/CountryFlags/Belize.svg",
     "options": [
       "Belize",
       "Poland",
@@ -300,7 +300,7 @@
     "answer": "Belize"
   },
   {
-    "image": "../images/Bermuda.svg",
+    "image": "../images/CountryFlags/Bermuda.svg",
     "options": [
       "Panama",
       "Bermuda",
@@ -310,7 +310,7 @@
     "answer": "Bermuda"
   },
   {
-    "image": "../images/Plurinational_State_of_Bolovia.svg",
+    "image": "../images/CountryFlags/Plurinational_State_of_Bolovia.svg",
     "options": [
       "Cameroon",
       "Plurinational State of Bolivia",
@@ -320,7 +320,7 @@
     "answer": "Plurinational State of Bolivia"
   },
   {
-    "image": "../images/Brazil.svg",
+    "image": "../images/CountryFlags/Brazil.svg",
     "options": [
       "Guam",
       "Saint Vincent and the Grenadines",
@@ -330,7 +330,7 @@
     "answer": "Brazil"
   },
   {
-    "image": "../images/Barbados.svg",
+    "image": "../images/CountryFlags/Barbados.svg",
     "options": [
       "Guinea",
       "Saint Pierre and Miquelon",
@@ -340,7 +340,7 @@
     "answer": "Barbados"
   },
   {
-    "image": "../images/Brunei_Darussalam.svg",
+    "image": "../images/CountryFlags/Brunei_Darussalam.svg",
     "options": [
       "Saint Barthélemy",
       "Brunei Darussalam",
@@ -350,7 +350,7 @@
     "answer": "Brunei Darussalam"
   },
   {
-    "image": "../images/Bhutan.svg",
+    "image": "../images/CountryFlags/Bhutan.svg",
     "options": [
       "China",
       "Hungary",
@@ -360,7 +360,7 @@
     "answer": "Bhutan"
   },
   {
-    "image": "../images/Bouvet_Island.svg",
+    "image": "../images/CountryFlags/Bouvet_Island.svg",
     "options": [
       "Vanuatu",
       "Madagascar",
@@ -370,7 +370,7 @@
     "answer": "Bouvet Island"
   },
   {
-    "image": "../images/Botswana.svg",
+    "image": "../images/CountryFlags/Botswana.svg",
     "options": [
       "Kyrgyzstan",
       "Botswana",
@@ -380,7 +380,7 @@
     "answer": "Botswana"
   },
   {
-    "image": "../images/Central_African_Republic.svg",
+    "image": "../images/CountryFlags/Central_African_Republic.svg",
     "options": [
       "Central African Republic",
       "Gambia",
@@ -390,7 +390,7 @@
     "answer": "Central African Republic"
   },
   {
-    "image": "../images/Canada.svg",
+    "image": "../images/CountryFlags/Canada.svg",
     "options": [
       "Canada",
       "Madagascar",
@@ -400,7 +400,7 @@
     "answer": "Canada"
   },
   {
-    "image": "../images/Cocos_(Keeling)_Islands.svg",
+    "image": "../images/CountryFlags/Cocos_(Keeling)_Islands.svg",
     "options": [
       "Nepal",
       "Cocos (Keeling) Islands",
@@ -410,7 +410,7 @@
     "answer": "Cocos (Keeling) Islands"
   },
   {
-    "image": "../images/Switzerland.svg",
+    "image": "../images/CountryFlags/Switzerland.svg",
     "options": [
       "Switzerland",
       "Bahamas",
@@ -420,7 +420,7 @@
     "answer": "Switzerland"
   },
   {
-    "image": "../images/Chile.svg",
+    "image": "../images/CountryFlags/Chile.svg",
     "options": [
       "Chile",
       "Sierra Leone",
@@ -430,7 +430,7 @@
     "answer": "Chile"
   },
   {
-    "image": "../images/China.svg",
+    "image": "../images/CountryFlags/China.svg",
     "options": [
       "Luxembourg",
       "Cambodia",
@@ -440,7 +440,7 @@
     "answer": "China"
   },
   {
-    "image": "../images/Côte_d'Ivoire.svg",
+    "image": "../images/CountryFlags/Côte_d'Ivoire.svg",
     "options": [
       "Sweden",
       "Côte d'Ivoire",
@@ -450,7 +450,7 @@
     "answer": "Côte d'Ivoire"
   },
   {
-    "image": "../images/Cameroon.svg",
+    "image": "../images/CountryFlags/Cameroon.svg",
     "options": [
       "Gibraltar",
       "Sierra Leone",
@@ -460,7 +460,7 @@
     "answer": "Cameroon"
   },
   {
-    "image": "../images/The_Democratic_Republic_of_the_Congo.svg",
+    "image": "../images/CountryFlags/The_Democratic_Republic_of_the_Congo.svg",
     "options": [
       "Afghanistan",
       "Nigeria",
@@ -470,7 +470,7 @@
     "answer": "The Democratic Republic of Congo"
   },
   {
-    "image": "../images/Congo.svg",
+    "image": "../images/CountryFlags/Congo.svg",
     "options": [
       "Burkina Faso",
       "Afghanistan",
@@ -480,7 +480,7 @@
     "answer": "Congo"
   },
   {
-    "image": "../images/Cook_Islands.svg",
+    "image": "../images/CountryFlags/Cook_Islands.svg",
     "options": [
       "Saint Martin (French part)",
       "Cook Islands",
@@ -490,7 +490,7 @@
     "answer": "Cook Islands"
   },
   {
-    "image": "../images/Colombia.svg",
+    "image": "../images/CountryFlags/Colombia.svg",
     "options": [
       "Solomon Islands",
       "Colombia",
@@ -500,7 +500,7 @@
     "answer": "Colombia"
   },
   {
-    "image": "../images/Comoros.svg",
+    "image": "../images/CountryFlags/Comoros.svg",
     "options": [
       "Svalbard and Jan Mayen",
       "Philippines",
@@ -510,7 +510,7 @@
     "answer": "Comoros"
   },
   {
-    "image": "../images/Cabo_Verde.svg",
+    "image": "../images/CountryFlags/Cabo_Verde.svg",
     "options": [
       "Tunisia",
       "Tonga",
@@ -520,7 +520,7 @@
     "answer": "Cabo Verde"
   },
   {
-    "image": "../images/Costa_Rica.svg",
+    "image": "../images/CountryFlags/Costa_Rica.svg",
     "options": [
       "Bermuda",
       "Wallis and Futuna",
@@ -530,7 +530,7 @@
     "answer": "Costa Rica"
   },
   {
-    "image": "../images/Cuba.svg",
+    "image": "../images/CountryFlags/Cuba.svg",
     "options": [
       "Vanuatu",
       "Cuba",
@@ -540,7 +540,7 @@
     "answer": "Cuba"
   },
   {
-    "image": "../images/Curaçao.svg",
+    "image": "../images/CountryFlags/Curaçao.svg",
     "options": [
       "Côte d'Ivoire",
       "Oman",
@@ -550,7 +550,7 @@
     "answer": "Curaçao"
   },
   {
-    "image": "../images/Christmas_Island.svg",
+    "image": "../images/CountryFlags/Christmas_Island.svg",
     "options": [
       "Bonaire, Sint Eustatius and Saba",
       "Cuba",
@@ -560,7 +560,7 @@
     "answer": "Christmas Island"
   },
   {
-    "image": "../images/Cayman_Islands.svg",
+    "image": "../images/CountryFlags/Cayman_Islands.svg",
     "options": [
       "Türkiye",
       "Mongolia",
@@ -570,7 +570,7 @@
     "answer": "Cayman Islands"
   },
   {
-    "image": "../images/Cyprus.svg",
+    "image": "../images/CountryFlags/Cyprus.svg",
     "options": [
       "Egypt",
       "Taiwan, Province of China",
@@ -580,7 +580,7 @@
     "answer": "Cyprus"
   },
   {
-    "image": "../images/Czechia.svg",
+    "image": "../images/CountryFlags/Czechia.svg",
     "options": [
       "Syrian Arab Republic",
       "Czechia",
@@ -590,7 +590,7 @@
     "answer": "Czechia"
   },
   {
-    "image": "../images/Germany.svg",
+    "image": "../images/CountryFlags/Germany.svg",
     "options": [
       "Bonaire, Sint Eustatius and Saba",
       "Åland Islands",
@@ -600,7 +600,7 @@
     "answer": "Germany"
   },
   {
-    "image": "../images/Djibouti.svg",
+    "image": "../images/CountryFlags/Djibouti.svg",
     "options": [
       "Malaysia",
       "Cocos (Keeling) Islands",
@@ -610,7 +610,7 @@
     "answer": "Djibouti"
   },
   {
-    "image": "../images/Dominica.svg",
+    "image": "../images/CountryFlags/Dominica.svg",
     "options": [
       "Dominica",
       "Saint Martin (French part)",
@@ -620,7 +620,7 @@
     "answer": "Dominica"
   },
   {
-    "image": "../images/Denmark.svg",
+    "image": "../images/CountryFlags/Denmark.svg",
     "options": [
       "Guernsey",
       "Denmark",
@@ -630,7 +630,7 @@
     "answer": "Denmark"
   },
   {
-    "image": "../images/Dominican_Republic.svg",
+    "image": "../images/CountryFlags/Dominican_Republic.svg",
     "options": [
       "Nauru",
       "Dominican Republic",
@@ -640,7 +640,7 @@
     "answer": "Dominican Republic"
   },
   {
-    "image": "../images/Algeria.svg",
+    "image": "../images/CountryFlags/Algeria.svg",
     "options": [
       "Algeria",
       "Zambia",
@@ -650,7 +650,7 @@
     "answer": "Algeria"
   },
   {
-    "image": "../images/Ecuador.svg",
+    "image": "../images/CountryFlags/Ecuador.svg",
     "options": [
       "Liberia",
       "Fiji",
@@ -660,7 +660,7 @@
     "answer": "Ecuador"
   },
   {
-    "image": "../images/Egypt.svg",
+    "image": "../images/CountryFlags/Egypt.svg",
     "options": [
       "Egypt",
       "Romania",
@@ -670,7 +670,7 @@
     "answer": "Egypt"
   },
   {
-    "image": "../images/Eritrea.svg",
+    "image": "../images/CountryFlags/Eritrea.svg",
     "options": [
       "Kazakhstan",
       "Botswana",
@@ -680,7 +680,7 @@
     "answer": "Eritrea"
   },
   {
-    "image": "../images/Western_Sahara.svg",
+    "image": "../images/CountryFlags/Western_Sahara.svg",
     "options": [
       "Norfolk Island",
       "Western Sahara",
@@ -690,7 +690,7 @@
     "answer": "Western Sahara"
   },
   {
-    "image": "../images/Spain.svg",
+    "image": "../images/CountryFlags/Spain.svg",
     "options": [
       "Spain",
       "Hungary",
@@ -700,7 +700,7 @@
     "answer": "Spain"
   },
   {
-    "image": "../images/Estonia.svg",
+    "image": "../images/CountryFlags/Estonia.svg",
     "options": [
       "Estonia",
       "Sri Lanka",
@@ -710,7 +710,7 @@
     "answer": "Estonia"
   },
   {
-    "image": "../images/Ethiopia.svg",
+    "image": "../images/CountryFlags/Ethiopia.svg",
     "options": [
       "Equatorial Guinea",
       "Ethiopia",
@@ -720,7 +720,7 @@
     "answer": "Ethiopia"
   },
   {
-    "image": "../images/Finland.svg",
+    "image": "../images/CountryFlags/Finland.svg",
     "options": [
       "Kyrgyzstan",
       "India",
@@ -730,7 +730,7 @@
     "answer": "Finland"
   },
   {
-    "image": "../images/Fiji.svg",
+    "image": "../images/CountryFlags/Fiji.svg",
     "options": [
       "Jersey",
       "Chile",
@@ -740,7 +740,7 @@
     "answer": "Fiji"
   },
   {
-    "image": "../images/Falkland_Islands_(Malvinas).svg",
+    "image": "../images/CountryFlags/Falkland_Islands_(Malvinas).svg",
     "options": [
       "Falkland Islands (Malvinas)",
       "Germany",
@@ -750,7 +750,7 @@
     "answer": "Falkland Islands (Malvinas)"
   },
   {
-    "image": "../images/France.svg",
+    "image": "../images/CountryFlags/France.svg",
     "options": [
       "Curaçao",
       "Saint Barthélemy",
@@ -760,7 +760,7 @@
     "answer": "France"
   },
   {
-    "image": "../images/Faroe_Islands.svg",
+    "image": "../images/CountryFlags/Faroe_Islands.svg",
     "options": [
       "New Zealand",
       "Faroe Islands",
@@ -770,7 +770,7 @@
     "answer": "Faroe Islands"
   },
   {
-    "image": "../images/Federated_States_of_Micronesia.svg",
+    "image": "../images/CountryFlags/Federated_States_of_Micronesia.svg",
     "options": [
       "Luxembourg",
       "The Democratic Republic of the Congo",
@@ -780,7 +780,7 @@
     "answer": "Federated States of Micronesia"
   },
   {
-    "image": "../images/Gabon.svg",
+    "image": "../images/CountryFlags/Gabon.svg",
     "options": [
       "South Georgia and the South Sandwich Islands",
       "Gabon",
@@ -790,7 +790,7 @@
     "answer": "Gabon"
   },
   {
-    "image": "../images/United_Kingdom.svg",
+    "image": "../images/CountryFlags/United_Kingdom.svg",
     "options": [
       "Estonia",
       "United Kingdom",
@@ -800,7 +800,7 @@
     "answer": "United Kingdom"
   },
   {
-    "image": "../images/Georgia.svg",
+    "image": "../images/CountryFlags/Georgia.svg",
     "options": [
       "India",
       "Timor-Leste",
@@ -810,7 +810,7 @@
     "answer": "Georgia"
   },
   {
-    "image": "../images/Guernsey.svg",
+    "image": "../images/CountryFlags/Guernsey.svg",
     "options": [
       "Andorra",
       "Congo",
@@ -820,7 +820,7 @@
     "answer": "Guernsey"
   },
   {
-    "image": "../images/Ghana.svg",
+    "image": "../images/CountryFlags/Ghana.svg",
     "options": [
       "Slovakia",
       "Ghana",
@@ -830,7 +830,7 @@
     "answer": "Ghana"
   },
   {
-    "image": "../images/Gibraltar.svg",
+    "image": "../images/CountryFlags/Gibraltar.svg",
     "options": [
       "United States",
       "Wallis and Futuna",
@@ -840,7 +840,7 @@
     "answer": "Gibraltar"
   },
   {
-    "image": "../images/Guinea.svg",
+    "image": "../images/CountryFlags/Guinea.svg",
     "options": [
       "Fiji",
       "Panama",
@@ -850,7 +850,7 @@
     "answer": "Guinea"
   },
   {
-    "image": "../images/Guadeloupe.svg",
+    "image": "../images/CountryFlags/Guadeloupe.svg",
     "options": [
       "Sao Tome and Principe",
       "Greenland",
@@ -860,7 +860,7 @@
     "answer": "Guadeloupe"
   },
   {
-    "image": "../images/Gambia.svg",
+    "image": "../images/CountryFlags/Gambia.svg",
     "options": [
       "Afghanistan",
       "Bouvet Island",
@@ -870,7 +870,7 @@
     "answer": "Gambia"
   },
   {
-    "image": "../images/Guinea-Bissau.svg",
+    "image": "../images/CountryFlags/Guinea-Bissau.svg",
     "options": [
       "Guinea-Bissau",
       "Tuvalu",
@@ -880,7 +880,7 @@
     "answer": "Guinea-Bissau"
   },
   {
-    "image": "../images/Equatorial_Guinea.svg",
+    "image": "../images/CountryFlags/Equatorial_Guinea.svg",
     "options": [
       "Vanuatu",
       "Lao People's Democratic Republic",
@@ -890,7 +890,7 @@
     "answer": "Equatorial Guinea"
   },
   {
-    "image": "../images/Greece.svg",
+    "image": "../images/CountryFlags/Greece.svg",
     "options": [
       "Guam",
       "Guernsey",
@@ -900,7 +900,7 @@
     "answer": "Greece"
   },
   {
-    "image": "../images/Grenada.svg",
+    "image": "../images/CountryFlags/Grenada.svg",
     "options": [
       "Grenada",
       "Virgin Islands, British",
@@ -910,7 +910,7 @@
     "answer": "Grenada"
   },
   {
-    "image": "../images/Greenland.svg",
+    "image": "../images/CountryFlags/Greenland.svg",
     "options": [
       "Yemen",
       "Greenland",
@@ -920,7 +920,7 @@
     "answer": "Greenland"
   },
   {
-    "image": "../images/Guatemala.svg",
+    "image": "../images/CountryFlags/Guatemala.svg",
     "options": [
       "Grenada",
       "Malta",
@@ -930,7 +930,7 @@
     "answer": "Guatemala"
   },
   {
-    "image": "../images/French_Guiana.svg",
+    "image": "../images/CountryFlags/French_Guiana.svg",
     "options": [
       "French Guiana",
       "Tajikistan",
@@ -940,7 +940,7 @@
     "answer": "French Guiana"
   },
   {
-    "image": "../images/Guam.svg",
+    "image": "../images/CountryFlags/Guam.svg",
     "options": [
       "Guam",
       "Tunisia",
@@ -950,7 +950,7 @@
     "answer": "Guam"
   },
   {
-    "image": "../images/Guyana.svg",
+    "image": "../images/CountryFlags/Guyana.svg",
     "options": [
       "Puerto Rico",
       "State of Palestine",
@@ -960,7 +960,7 @@
     "answer": "Guyana"
   },
   {
-    "image": "../images/Hong_Kong.svg",
+    "image": "../images/CountryFlags/Hong_Kong.svg",
     "options": [
       "Sudan",
       "Hong Kong",
@@ -970,7 +970,7 @@
     "answer": "Hong Kong"
   },
   {
-    "image": "../images/Heard_Island_and_McDonald_Islands.svg",
+    "image": "../images/CountryFlags/Heard_Island_and_McDonald_Islands.svg",
     "options": [
       "Eritrea",
       "Heard Island and McDonald Islands",
@@ -980,7 +980,7 @@
     "answer": "Heard Island and McDonald Islands"
   },
   {
-    "image": "../images/Honduras.svg",
+    "image": "../images/CountryFlags/Honduras.svg",
     "options": [
       "Honduras",
       "Armenia",
@@ -990,7 +990,7 @@
     "answer": "Honduras"
   },
   {
-    "image": "../images/Croatia.svg",
+    "image": "../images/CountryFlags/Croatia.svg",
     "options": [
       "Bangladesh",
       "Croatia",
@@ -1000,7 +1000,7 @@
     "answer": "Croatia"
   },
   {
-    "image": "../images/Haiti.svg",
+    "image": "../images/CountryFlags/Haiti.svg",
     "options": [
       "Djibouti",
       "American Samoa",
@@ -1010,7 +1010,7 @@
     "answer": "Haiti"
   },
   {
-    "image": "../images/Hungary.svg",
+    "image": "../images/CountryFlags/Hungary.svg",
     "options": [
       "Nepal",
       "Honduras",
@@ -1020,7 +1020,7 @@
     "answer": "Hungary"
   },
   {
-    "image": "../images/Indonesia.svg",
+    "image": "../images/CountryFlags/Indonesia.svg",
     "options": [
       "United Arab Emirates",
       "Indonesia",
@@ -1030,7 +1030,7 @@
     "answer": "Indonesia"
   },
   {
-    "image": "../images/Isle_of_Man.svg",
+    "image": "../images/CountryFlags/Isle_of_Man.svg",
     "options": [
       "Armenia",
       "Isle of Man",
@@ -1040,7 +1040,7 @@
     "answer": "Isle of Man"
   },
   {
-    "image": "../images/India.svg",
+    "image": "../images/CountryFlags/India.svg",
     "options": [
       "Jordan",
       "Viet Nam",
@@ -1050,7 +1050,7 @@
     "answer": "India"
   },
   {
-    "image": "../images/British_Indian_Ocean_Territory.svg",
+    "image": "../images/CountryFlags/British_Indian_Ocean_Territory.svg",
     "options": [
       "British Indian Ocean Territory",
       "Grenada",
@@ -1060,7 +1060,7 @@
     "answer": "British Indian Ocean Territory"
   },
   {
-    "image": "../images/Ireland.svg",
+    "image": "../images/CountryFlags/Ireland.svg",
     "options": [
       "Paraguay",
       "Zimbabwe",
@@ -1070,7 +1070,7 @@
     "answer": "Ireland"
   },
   {
-    "image": "../images/Islamic_Republic_of_Iran.svg",
+    "image": "../images/CountryFlags/Islamic_Republic_of_Iran.svg",
     "options": [
       "Canada",
       "Islamic Republic of Iran",
@@ -1080,7 +1080,7 @@
     "answer": "Islamic Republic of Iran"
   },
   {
-    "image": "../images/Iraq.svg",
+    "image": "../images/CountryFlags/Iraq.svg",
     "options": [
       "Ireland",
       "Uganda",
@@ -1090,7 +1090,7 @@
     "answer": "Iraq"
   },
   {
-    "image": "../images/Iceland.svg",
+    "image": "../images/CountryFlags/Iceland.svg",
     "options": [
       "Iceland",
       "Syrian Arab Republic",
@@ -1100,7 +1100,7 @@
     "answer": "Iceland"
   },
   {
-    "image": "../images/Israel.svg",
+    "image": "../images/CountryFlags/Israel.svg",
     "options": [
       "Montenegro",
       "Malta",
@@ -1110,7 +1110,7 @@
     "answer": "Israel"
   },
   {
-    "image": "../images/Italy.svg",
+    "image": "../images/CountryFlags/Italy.svg",
     "options": [
       "Italy",
       "Virgin Islands, U.S.",
@@ -1120,7 +1120,7 @@
     "answer": "Italy"
   },
   {
-    "image": "../images/Jamaica.svg",
+    "image": "../images/CountryFlags/Jamaica.svg",
     "options": [
       "Bhutan",
       "Barbados",
@@ -1130,7 +1130,7 @@
     "answer": "Jamaica"
   },
   {
-    "image": "../images/Jersey.svg",
+    "image": "../images/CountryFlags/Jersey.svg",
     "options": [
       "Belarus",
       "Jersey",
@@ -1140,7 +1140,7 @@
     "answer": "Jersey"
   },
   {
-    "image": "../images/Jordan.svg",
+    "image": "../images/CountryFlags/Jordan.svg",
     "options": [
       "Jordan",
       "Solomon Islands",
@@ -1150,7 +1150,7 @@
     "answer": "Jordan"
   },
   {
-    "image": "../images/Japan.svg",
+    "image": "../images/CountryFlags/Japan.svg",
     "options": [
       "Greenland",
       "Austria",
@@ -1160,7 +1160,7 @@
     "answer": "Japan"
   },
   {
-    "image": "../images/Kazakhstan.svg",
+    "image": "../images/CountryFlags/Kazakhstan.svg",
     "options": [
       "Kazakhstan",
       "Comoros",
@@ -1170,7 +1170,7 @@
     "answer": "Kazakhstan"
   },
   {
-    "image": "../images/Kenya.svg",
+    "image": "../images/CountryFlags/Kenya.svg",
     "options": [
       "Republic of Korea",
       "Kenya",
@@ -1180,7 +1180,7 @@
     "answer": "Kenya"
   },
   {
-    "image": "../images/Kyrgyzstan.svg",
+    "image": "../images/CountryFlags/Kyrgyzstan.svg",
     "options": [
       "Zambia",
       "Kenya",
@@ -1190,7 +1190,7 @@
     "answer": "Kyrgyzstan"
   },
   {
-    "image": "../images/Cambodia.svg",
+    "image": "../images/CountryFlags/Cambodia.svg",
     "options": [
       "Cambodia",
       "Cabo Verde",
@@ -1200,7 +1200,7 @@
     "answer": "Cambodia"
   },
   {
-    "image": "../images/Kiribati.svg",
+    "image": "../images/CountryFlags/Kiribati.svg",
     "options": [
       "Timor-Leste",
       "Nauru",
@@ -1210,7 +1210,7 @@
     "answer": "Kiribati"
   },
   {
-    "image": "../images/Saint_Kitts_and_Nevis.svg",
+    "image": "../images/CountryFlags/Saint_Kitts_and_Nevis.svg",
     "options": [
       "Syrian Arab Republic",
       "Latvia",
@@ -1220,7 +1220,7 @@
     "answer": "Saint Kitts and Nevis"
   },
   {
-    "image": "../images/Republic_of_Korea.svg",
+    "image": "../images/CountryFlags/Republic_of_Korea.svg",
     "options": [
       "Republic of Korea",
       "Denmark",
@@ -1230,7 +1230,7 @@
     "answer": "Republic of Korea"
   },
   {
-    "image": "../images/Kuwait.svg",
+    "image": "../images/CountryFlags/Kuwait.svg",
     "options": [
       "Barbados",
       "Kuwait",
@@ -1240,7 +1240,7 @@
     "answer": "Kuwait"
   },
   {
-    "image": "../images/Lao_People's_Democratic_Republic.svg",
+    "image": "../images/CountryFlags/Lao_People's_Democratic_Republic.svg",
     "options": [
       "Egypt",
       "Lao People's Democratic Republic",
@@ -1250,7 +1250,7 @@
     "answer": "Lao People's Democratic Republic"
   },
   {
-    "image": "../images/Lebanon.svg",
+    "image": "../images/CountryFlags/Lebanon.svg",
     "options": [
       "Djibouti",
       "Montserrat",
@@ -1260,7 +1260,7 @@
     "answer": "Lebanon"
   },
   {
-    "image": "../images/Liberia.svg",
+    "image": "../images/CountryFlags/Liberia.svg",
     "options": [
       "Republic of Korea",
       "Seychelles",
@@ -1270,7 +1270,7 @@
     "answer": "Liberia"
   },
   {
-    "image": "../images/Libya.svg",
+    "image": "../images/CountryFlags/Libya.svg",
     "options": [
       "China",
       "Libya",
@@ -1280,7 +1280,7 @@
     "answer": "Libya"
   },
   {
-    "image": "../images/Saint_Lucia.svg",
+    "image": "../images/CountryFlags/Saint_Lucia.svg",
     "options": [
       "Latvia",
       "Bulgaria",
@@ -1290,7 +1290,7 @@
     "answer": "Saint Lucia"
   },
   {
-    "image": "../images/Liechtenstein.svg",
+    "image": "../images/CountryFlags/Liechtenstein.svg",
     "options": [
       "Tokelau",
       "United Arab Emirates",
@@ -1300,7 +1300,7 @@
     "answer": "Liechtenstein"
   },
   {
-    "image": "../images/Sri_Lanka.svg",
+    "image": "../images/CountryFlags/Sri_Lanka.svg",
     "options": [
       "Belgium",
       "Saint Helena, Ascension and Tristan da Cunha",
@@ -1310,7 +1310,7 @@
     "answer": "Sri Lanka"
   },
   {
-    "image": "../images/Lesotho.svg",
+    "image": "../images/CountryFlags/Lesotho.svg",
     "options": [
       "Anguilla",
       "Yemen",
@@ -1320,7 +1320,7 @@
     "answer": "Lesotho"
   },
   {
-    "image": "../images/Lithuania.svg",
+    "image": "../images/CountryFlags/Lithuania.svg",
     "options": [
       "Gibraltar",
       "Honduras",
@@ -1330,7 +1330,7 @@
     "answer": "Lithuania"
   },
   {
-    "image": "../images/Luxembourg.svg",
+    "image": "../images/CountryFlags/Luxembourg.svg",
     "options": [
       "Taiwan, Province of China",
       "Luxembourg",
@@ -1340,7 +1340,7 @@
     "answer": "Luxembourg"
   },
   {
-    "image": "../images/Latvia.svg",
+    "image": "../images/CountryFlags/Latvia.svg",
     "options": [
       "Congo",
       "Latvia",
@@ -1350,7 +1350,7 @@
     "answer": "Latvia"
   },
   {
-    "image": "../images/Macao.svg",
+    "image": "../images/CountryFlags/Macao.svg",
     "options": [
       "Haiti",
       "Gibraltar",
@@ -1360,7 +1360,7 @@
     "answer": "Macao"
   },
   {
-    "image": "../images/Saint_Martin_(French_part).svg",
+    "image": "../images/CountryFlags/Saint_Martin_(French_part).svg",
     "options": [
       "Monaco",
       "Saint Martin (French part)",
@@ -1370,7 +1370,7 @@
     "answer": "Saint Martin (French part)"
   },
   {
-    "image": "../images/Morocco.svg",
+    "image": "../images/CountryFlags/Morocco.svg",
     "options": [
       "Saint Barthélemy",
       "Guinea-Bissau",
@@ -1380,7 +1380,7 @@
     "answer": "Morocco"
   },
   {
-    "image": "../images/Monaco.svg",
+    "image": "../images/CountryFlags/Monaco.svg",
     "options": [
       "Malta",
       "Eritrea",
@@ -1390,7 +1390,7 @@
     "answer": "Monaco"
   },
   {
-    "image": "../images/Republic_of_Moldova.svg",
+    "image": "../images/CountryFlags/Republic_of_Moldova.svg",
     "options": [
       "Solomon Islands",
       "French Guiana",
@@ -1400,7 +1400,7 @@
     "answer": "Republic of Moldova"
   },
   {
-    "image": "../images/Madagascar.svg",
+    "image": "../images/CountryFlags/Madagascar.svg",
     "options": [
       "Madagascar",
       "Montenegro",
@@ -1410,7 +1410,7 @@
     "answer": "Madagascar"
   },
   {
-    "image": "../images/Maldives.svg",
+    "image": "../images/CountryFlags/Maldives.svg",
     "options": [
       "Kenya",
       "Maldives",
@@ -1420,7 +1420,7 @@
     "answer": "Maldives"
   },
   {
-    "image": "../images/Mexico.svg",
+    "image": "../images/CountryFlags/Mexico.svg",
     "options": [
       "Hong Kong",
       "Mexico",
@@ -1430,7 +1430,7 @@
     "answer": "Mexico"
   },
   {
-    "image": "../images/Marshall_Islands.svg",
+    "image": "../images/CountryFlags/Marshall_Islands.svg",
     "options": [
       "Ukraine",
       "Marshall Islands",
@@ -1440,7 +1440,7 @@
     "answer": "Marshall Islands"
   },
   {
-    "image": "../images/North_Macedonia.svg",
+    "image": "../images/CountryFlags/North_Macedonia.svg",
     "options": [
       "North Macedonia",
       "Kazakhstan",
@@ -1450,7 +1450,7 @@
     "answer": "North Macedonia"
   },
   {
-    "image": "../images/Mali.svg",
+    "image": "../images/CountryFlags/Mali.svg",
     "options": [
       "Mali",
       "Tokelau",
@@ -1460,7 +1460,7 @@
     "answer": "Mali"
   },
   {
-    "image": "../images/Malta.svg",
+    "image": "../images/CountryFlags/Malta.svg",
     "options": [
       "Andorra",
       "Tokelau",
@@ -1470,7 +1470,7 @@
     "answer": "Malta"
   },
   {
-    "image": "../images/Myanmar.svg",
+    "image": "../images/CountryFlags/Myanmar.svg",
     "options": [
       "Myanmar",
       "Libya",
@@ -1480,7 +1480,7 @@
     "answer": "Myanmar"
   },
   {
-    "image": "../images/Montenegro.svg",
+    "image": "../images/CountryFlags/Montenegro.svg",
     "options": [
       "Bahamas",
       "United States Minor Outlying Islands",
@@ -1490,7 +1490,7 @@
     "answer": "Montenegro"
   },
   {
-    "image": "../images/Mongolia.svg",
+    "image": "../images/CountryFlags/Mongolia.svg",
     "options": [
       "Mongolia",
       "Myanmar",
@@ -1500,7 +1500,7 @@
     "answer": "Mongolia"
   },
   {
-    "image": "../images/Northern_Mariana_Islands.svg",
+    "image": "../images/CountryFlags/Northern_Mariana_Islands.svg",
     "options": [
       "Slovakia",
       "Peru",
@@ -1510,7 +1510,7 @@
     "answer": "Northern Mariana Islands"
   },
   {
-    "image": "../images/Mozambique.svg",
+    "image": "../images/CountryFlags/Mozambique.svg",
     "options": [
       "Monaco",
       "Italy",
@@ -1520,7 +1520,7 @@
     "answer": "Mozambique"
   },
   {
-    "image": "../images/Mauritania.svg",
+    "image": "../images/CountryFlags/Mauritania.svg",
     "options": [
       "Democratic People's Republic of Korea",
       "Mauritania",
@@ -1530,7 +1530,7 @@
     "answer": "Mauritania"
   },
   {
-    "image": "../images/Montserrat.svg",
+    "image": "../images/CountryFlags/Montserrat.svg",
     "options": [
       "Montserrat",
       "South Sudan",
@@ -1540,7 +1540,7 @@
     "answer": "Montserrat"
   },
   {
-    "image": "../images/Martinique.svg",
+    "image": "../images/CountryFlags/Martinique.svg",
     "options": [
       "Norfolk Island",
       "Lithuania",
@@ -1550,7 +1550,7 @@
     "answer": "Martinique"
   },
   {
-    "image": "../images/Mauritius.svg",
+    "image": "../images/CountryFlags/Mauritius.svg",
     "options": [
       "Réunion",
       "Papua New Guinea",
@@ -1560,7 +1560,7 @@
     "answer": "Mauritius"
   },
   {
-    "image": "../images/Malawi.svg",
+    "image": "../images/CountryFlags/Malawi.svg",
     "options": [
       "Uganda",
       "Austria",
@@ -1570,7 +1570,7 @@
     "answer": "Malawi"
   },
   {
-    "image": "../images/Malaysia.svg",
+    "image": "../images/CountryFlags/Malaysia.svg",
     "options": [
       "Réunion",
       "Bermuda",
@@ -1580,7 +1580,7 @@
     "answer": "Malaysia"
   },
   {
-    "image": "../images/Mayotte.svg",
+    "image": "../images/CountryFlags/Mayotte.svg",
     "options": [
       "Mayotte",
       "Luxembourg",
@@ -1590,7 +1590,7 @@
     "answer": "Mayotte"
   },
   {
-    "image": "../images/Namibia.svg",
+    "image": "../images/CountryFlags/Namibia.svg",
     "options": [
       "Cyprus",
       "Namibia",
@@ -1600,7 +1600,7 @@
     "answer": "Namibia"
   },
   {
-    "image": "../images/New_Caledonia.svg",
+    "image": "../images/CountryFlags/New_Caledonia.svg",
     "options": [
       "United States",
       "Curaçao",
@@ -1610,7 +1610,7 @@
     "answer": "New Caledonia"
   },
   {
-    "image": "../images/Niger.svg",
+    "image": "../images/CountryFlags/Niger.svg",
     "options": [
       "Niger",
       "Chile",
@@ -1620,7 +1620,7 @@
     "answer": "Niger"
   },
   {
-    "image": "../images/Norfolk_Island.svg",
+    "image": "../images/CountryFlags/Norfolk_Island.svg",
     "options": [
       "Iraq",
       "Palau",
@@ -1630,7 +1630,7 @@
     "answer": "Norfolk Island"
   },
   {
-    "image": "../images/Nigeria.svg",
+    "image": "../images/CountryFlags/Nigeria.svg",
     "options": [
       "Australia",
       "Nicaragua",
@@ -1640,7 +1640,7 @@
     "answer": "Nigeria"
   },
   {
-    "image": "../images/Nicaragua.svg",
+    "image": "../images/CountryFlags/Nicaragua.svg",
     "options": [
       "Guyana",
       "Cyprus",
@@ -1650,7 +1650,7 @@
     "answer": "Nicaragua"
   },
   {
-    "image": "../images/Niue.svg",
+    "image": "../images/CountryFlags/Niue.svg",
     "options": [
       "Sint Maarten (Dutch part)",
       "Chad",
@@ -1660,7 +1660,7 @@
     "answer": "Niue"
   },
   {
-    "image": "../images/Netherlands.svg",
+    "image": "../images/CountryFlags/Netherlands.svg",
     "options": [
       "Oman",
       "Bahamas",
@@ -1670,7 +1670,7 @@
     "answer": "Netherlands"
   },
   {
-    "image": "../images/Norway.svg",
+    "image": "../images/CountryFlags/Norway.svg",
     "options": [
       "French Southern Territories",
       "Australia",
@@ -1680,7 +1680,7 @@
     "answer": "Norway"
   },
   {
-    "image": "../images/Nepal.svg",
+    "image": "../images/CountryFlags/Nepal.svg",
     "options": [
       "Djibouti",
       "North Macedonia",
@@ -1690,7 +1690,7 @@
     "answer": "Nepal"
   },
   {
-    "image": "../images/Nauru.svg",
+    "image": "../images/CountryFlags/Nauru.svg",
     "options": [
       "Austria",
       "Pitcairn",
@@ -1700,7 +1700,7 @@
     "answer": "Nauru"
   },
   {
-    "image": "../images/New_Zealand.svg",
+    "image": "../images/CountryFlags/New_Zealand.svg",
     "options": [
       "Liechtenstein",
       "Madagascar",
@@ -1710,7 +1710,7 @@
     "answer": "New Zealand"
   },
   {
-    "image": "../images/Oman.svg",
+    "image": "../images/CountryFlags/Oman.svg",
     "options": [
       "Liberia",
       "Oman",
@@ -1720,7 +1720,7 @@
     "answer": "Oman"
   },
   {
-    "image": "../images/Pakistan.svg",
+    "image": "../images/CountryFlags/Pakistan.svg",
     "options": [
       "British Indian Ocean Territory",
       "Pakistan",
@@ -1730,7 +1730,7 @@
     "answer": "Pakistan"
   },
   {
-    "image": "../images/Panama.svg",
+    "image": "../images/CountryFlags/Panama.svg",
     "options": [
       "Panama",
       "Palau",
@@ -1740,7 +1740,7 @@
     "answer": "Panama"
   },
   {
-    "image": "../images/Pitcairn.svg",
+    "image": "../images/CountryFlags/Pitcairn.svg",
     "options": [
       "Isle of Man",
       "French Southern Territories",
@@ -1750,7 +1750,7 @@
     "answer": "Pitcairn"
   },
   {
-    "image": "../images/Peru.svg",
+    "image": "../images/CountryFlags/Peru.svg",
     "options": [
       "Syrian Arab Republic",
       "North Macedonia",
@@ -1760,7 +1760,7 @@
     "answer": "Peru"
   },
   {
-    "image": "../images/Philippines.svg",
+    "image": "../images/CountryFlags/Philippines.svg",
     "options": [
       "Philippines",
       "French Guiana",
@@ -1770,7 +1770,7 @@
     "answer": "Philippines"
   },
   {
-    "image": "../images/Palau.svg",
+    "image": "../images/CountryFlags/Palau.svg",
     "options": [
       "Togo",
       "Bahamas",
@@ -1780,7 +1780,7 @@
     "answer": "Palau"
   },
   {
-    "image": "../images/Papua_New_Guinea.svg",
+    "image": "../images/CountryFlags/Papua_New_Guinea.svg",
     "options": [
       "Papua New Guinea",
       "Vanuatu",
@@ -1790,7 +1790,7 @@
     "answer": "Papua New Guinea"
   },
   {
-    "image": "../images/Poland.svg",
+    "image": "../images/CountryFlags/Poland.svg",
     "options": [
       "Ireland",
       "Jordan",
@@ -1800,7 +1800,7 @@
     "answer": "Poland"
   },
   {
-    "image": "../images/Puerto_Rico.svg",
+    "image": "../images/CountryFlags/Puerto_Rico.svg",
     "options": [
       "Tajikistan",
       "Israel",
@@ -1810,7 +1810,7 @@
     "answer": "Puerto Rico"
   },
   {
-    "image": "../images/Democratic_People's_Republic_of_Korea.svg",
+    "image": "../images/CountryFlags/Democratic_People's_Republic_of_Korea.svg",
     "options": [
       "Democratic People's Republic of Korea",
       "Czechia",
@@ -1820,7 +1820,7 @@
     "answer": "Democratic People's Republic of Korea"
   },
   {
-    "image": "../images/Portugal.svg",
+    "image": "../images/CountryFlags/Portugal.svg",
     "options": [
       "Somalia",
       "Sierra Leone",
@@ -1830,7 +1830,7 @@
     "answer": "Portugal"
   },
   {
-    "image": "../images/Paraguay.svg",
+    "image": "../images/CountryFlags/Paraguay.svg",
     "options": [
       "Paraguay",
       "Islamic Republic of Iran",
@@ -1840,7 +1840,7 @@
     "answer": "Paraguay"
   },
   {
-    "image": "../images/State_of_Palestine.svg",
+    "image": "../images/CountryFlags/State_of_Palestine.svg",
     "options": [
       "Mexico",
       "Mozambique",
@@ -1850,7 +1850,7 @@
     "answer": "State of Palestine"
   },
   {
-    "image": "../images/French_Polynesia.svg",
+    "image": "../images/CountryFlags/French_Polynesia.svg",
     "options": [
       "French Polynesia",
       "United Kingdom",
@@ -1860,7 +1860,7 @@
     "answer": "French Polynesia"
   },
   {
-    "image": "../images/Qatar.svg",
+    "image": "../images/CountryFlags/Qatar.svg",
     "options": [
       "State of Palestine",
       "Aruba",
@@ -1870,7 +1870,7 @@
     "answer": "Qatar"
   },
   {
-    "image": "../images/Réunion.svg",
+    "image": "../images/CountryFlags/Réunion.svg",
     "options": [
       "Réunion",
       "Sint Maarten (Dutch part)",
@@ -1880,7 +1880,7 @@
     "answer": "Réunion"
   },
   {
-    "image": "../images/Romania.svg",
+    "image": "../images/CountryFlags/Romania.svg",
     "options": [
       "Solomon Islands",
       "Bolivarian Republic of Venezuela",
@@ -1890,7 +1890,7 @@
     "answer": "Romania"
   },
   {
-    "image": "../images/Russian_Federation.svg",
+    "image": "../images/CountryFlags/Russian_Federation.svg",
     "options": [
       "Russian Federation",
       "Tuvalu",
@@ -1900,7 +1900,7 @@
     "answer": "Russian Federation"
   },
   {
-    "image": "../images/Rwanda.svg",
+    "image": "../images/CountryFlags/Rwanda.svg",
     "options": [
       "Libya",
       "Viet Nam",
@@ -1910,7 +1910,7 @@
     "answer": "Rwanda"
   },
   {
-    "image": "../images/Saudi_Arabia.svg",
+    "image": "../images/CountryFlags/Saudi_Arabia.svg",
     "options": [
       "Finland",
       "Saudi Arabia",
@@ -1920,7 +1920,7 @@
     "answer": "Saudi Arabia"
   },
   {
-    "image": "../images/Sudan.svg",
+    "image": "../images/CountryFlags/Sudan.svg",
     "options": [
       "American Samoa",
       "Mozambique",
@@ -1930,7 +1930,7 @@
     "answer": "Sudan"
   },
   {
-    "image": "../images/Senegal.svg",
+    "image": "../images/CountryFlags/Senegal.svg",
     "options": [
       "Saint Barthélemy",
       "Senegal",
@@ -1940,7 +1940,7 @@
     "answer": "Senegal"
   },
   {
-    "image": "../images/Singapore.svg",
+    "image": "../images/CountryFlags/Singapore.svg",
     "options": [
       "Cocos (Keeling) Islands",
       "Singapore",
@@ -1950,7 +1950,7 @@
     "answer": "Singapore"
   },
   {
-    "image": "../images/South_Georgia_and_the_South_Sandwich_Islands.svg",
+    "image": "../images/CountryFlags/South_Georgia_and_the_South_Sandwich_Islands.svg",
     "options": [
       "South Georgia and the South Sandwich Islands",
       "Slovakia",
@@ -1960,7 +1960,7 @@
     "answer": "South Georgia and the South Sandwich Islands"
   },
   {
-    "image": "../images/Saint_Helena_Ascension_and_Tristan_da_Cunha.svg",
+    "image": "../images/CountryFlags/Saint_Helena_Ascension_and_Tristan_da_Cunha.svg",
     "options": [
       "Benin",
       "Réunion",
@@ -1970,7 +1970,7 @@
     "answer": "Saint Helena, Ascension and Tristan da Cunha"
   },
   {
-    "image": "../images/Svalbard_and_Jan_Mayen.svg",
+    "image": "../images/CountryFlags/Svalbard_and_Jan_Mayen.svg",
     "options": [
       "Saint Helena, Ascension and Tristan da Cunha",
       "Honduras",
@@ -1980,7 +1980,7 @@
     "answer": "Svalbard and Jan Mayen"
   },
   {
-    "image": "../images/Solomon_Islands.svg",
+    "image": "../images/CountryFlags/Solomon_Islands.svg",
     "options": [
       "British Indian Ocean Territory",
       "Rwanda",
@@ -1990,7 +1990,7 @@
     "answer": "Solomon Islands"
   },
   {
-    "image": "../images/Sierra_Leone.svg",
+    "image": "../images/CountryFlags/Sierra_Leone.svg",
     "options": [
       "French Guiana",
       "Sierra Leone",
@@ -2000,7 +2000,7 @@
     "answer": "Sierra Leone"
   },
   {
-    "image": "../images/El_Salvador.svg",
+    "image": "../images/CountryFlags/El_Salvador.svg",
     "options": [
       "Libya",
       "El Salvador",
@@ -2010,7 +2010,7 @@
     "answer": "El Salvador"
   },
   {
-    "image": "../images/San_Marino.svg",
+    "image": "../images/CountryFlags/San_Marino.svg",
     "options": [
       "Belarus",
       "San Marino",
@@ -2020,7 +2020,7 @@
     "answer": "San Marino"
   },
   {
-    "image": "../images/Somalia.svg",
+    "image": "../images/CountryFlags/Somalia.svg",
     "options": [
       "Somalia",
       "El Salvador",
@@ -2030,7 +2030,7 @@
     "answer": "Somalia"
   },
   {
-    "image": "../images/Saint_Pierre_and_Miquelon.svg",
+    "image": "../images/CountryFlags/Saint_Pierre_and_Miquelon.svg",
     "options": [
       "Ukraine",
       "Sierra Leone",
@@ -2040,7 +2040,7 @@
     "answer": "Saint Pierre and Miquelon"
   },
   {
-    "image": "../images/Serbia.svg",
+    "image": "../images/CountryFlags/Serbia.svg",
     "options": [
       "Cook Islands",
       "Gabon",
@@ -2050,7 +2050,7 @@
     "answer": "Serbia"
   },
   {
-    "image": "../images/South_Sudan.svg",
+    "image": "../images/CountryFlags/South_Sudan.svg",
     "options": [
       "South Sudan",
       "Aruba",
@@ -2060,7 +2060,7 @@
     "answer": "South Sudan"
   },
   {
-    "image": "../images/Sao_Tome_and_Principe.svg",
+    "image": "../images/CountryFlags/Sao_Tome_and_Principe.svg",
     "options": [
       "Sao Tome and Principe",
       "Ireland",
@@ -2070,7 +2070,7 @@
     "answer": "Sao Tome and Principe"
   },
   {
-    "image": "../images/Suriname.svg",
+    "image": "../images/CountryFlags/Suriname.svg",
     "options": [
       "Saint Helena, Ascension and Tristan da Cunha",
       "Suriname",
@@ -2080,7 +2080,7 @@
     "answer": "Suriname"
   },
   {
-    "image": "../images/Slovakia.svg",
+    "image": "../images/CountryFlags/Slovakia.svg",
     "options": [
       "Colombia",
       "Slovakia",
@@ -2090,7 +2090,7 @@
     "answer": "Slovakia"
   },
   {
-    "image": "../images/Slovenia.svg",
+    "image": "../images/CountryFlags/Slovenia.svg",
     "options": [
       "Israel",
       "Slovenia",
@@ -2100,7 +2100,7 @@
     "answer": "Slovenia"
   },
   {
-    "image": "../images/Sweden.svg",
+    "image": "../images/CountryFlags/Sweden.svg",
     "options": [
       "Eswatini",
       "Ecuador",
@@ -2110,7 +2110,7 @@
     "answer": "Sweden"
   },
   {
-    "image": "../images/Eswatini.svg",
+    "image": "../images/CountryFlags/Eswatini.svg",
     "options": [
       "Saint Pierre and Miquelon",
       "Lesotho",
@@ -2120,7 +2120,7 @@
     "answer": "Eswatini"
   },
   {
-    "image": "../images/Sint_Maarten_(Dutch_part).svg",
+    "image": "../images/CountryFlags/Sint_Maarten_(Dutch_part).svg",
     "options": [
       "Taiwan, Province of China",
       "Sint Maarten (Dutch part)",
@@ -2130,7 +2130,7 @@
     "answer": "Sint Maarten (Dutch part)"
   },
   {
-    "image": "../images/Seychelles.svg",
+    "image": "../images/CountryFlags/Seychelles.svg",
     "options": [
       "Seychelles",
       "France",
@@ -2140,7 +2140,7 @@
     "answer": "Seychelles"
   },
   {
-    "image": "../images/Syrian_Arab_Republic.svg",
+    "image": "../images/CountryFlags/Syrian_Arab_Republic.svg",
     "options": [
       "India",
       "Syrian Arab Republic",
@@ -2150,7 +2150,7 @@
     "answer": "Syrian Arab Republic"
   },
   {
-    "image": "../images/Turks_and_Caicos_Islands.svg",
+    "image": "../images/CountryFlags/Turks_and_Caicos_Islands.svg",
     "options": [
       "Papua New Guinea",
       "Guinea-Bissau",
@@ -2160,7 +2160,7 @@
     "answer": "Turks and Caicos Islands"
   },
   {
-    "image": "../images/Chad.svg",
+    "image": "../images/CountryFlags/Chad.svg",
     "options": [
       "Peru",
       "Chad",
@@ -2170,7 +2170,7 @@
     "answer": "Chad"
   },
   {
-    "image": "../images/Togo.svg",
+    "image": "../images/CountryFlags/Togo.svg",
     "options": [
       "United Arab Emirates",
       "Madagascar",
@@ -2180,7 +2180,7 @@
     "answer": "Togo"
   },
   {
-    "image": "../images/Thailand.svg",
+    "image": "../images/CountryFlags/Thailand.svg",
     "options": [
       "Monaco",
       "Thailand",
@@ -2190,7 +2190,7 @@
     "answer": "Thailand"
   },
   {
-    "image": "../images/Tajikistan.svg",
+    "image": "../images/CountryFlags/Tajikistan.svg",
     "options": [
       "Islamic Republic of Iran",
       "Nicaragua",
@@ -2200,7 +2200,7 @@
     "answer": "Tajikistan"
   },
   {
-    "image": "../images/Tokelau.svg",
+    "image": "../images/CountryFlags/Tokelau.svg",
     "options": [
       "Tokelau",
       "Lebanon",
@@ -2210,7 +2210,7 @@
     "answer": "Tokelau"
   },
   {
-    "image": "../images/Turkmenistan.svg",
+    "image": "../images/CountryFlags/Turkmenistan.svg",
     "options": [
       "San Marino",
       "Guam",
@@ -2220,7 +2220,7 @@
     "answer": "Turkmenistan"
   },
   {
-    "image": "../images/Timor-Leste.svg",
+    "image": "../images/CountryFlags/Timor-Leste.svg",
     "options": [
       "Wallis and Futuna",
       "Greece",
@@ -2230,7 +2230,7 @@
     "answer": "Timor-Leste"
   },
   {
-    "image": "../images/Tonga.svg",
+    "image": "../images/CountryFlags/Tonga.svg",
     "options": [
       "Montenegro",
       "Tonga",
@@ -2240,7 +2240,7 @@
     "answer": "Tonga"
   },
   {
-    "image": "../images/Trinidad_and_Tobago.svg",
+    "image": "../images/CountryFlags/Trinidad_and_Tobago.svg",
     "options": [
       "Islamic Republic of Iran",
       "Syrian Arab Republic",
@@ -2250,7 +2250,7 @@
     "answer": "Trinidad and Tobago"
   },
   {
-    "image": "../images/Tunisia.svg",
+    "image": "../images/CountryFlags/Tunisia.svg",
     "options": [
       "Peru",
       "Sudan",
@@ -2260,7 +2260,7 @@
     "answer": "Tunisia"
   },
   {
-    "image": "../images/Türkiye.svg",
+    "image": "../images/CountryFlags/Türkiye.svg",
     "options": [
       "Rwanda",
       "Türkiye",
@@ -2270,7 +2270,7 @@
     "answer": "Türkiye"
   },
   {
-    "image": "../images/Tuvalu.svg",
+    "image": "../images/CountryFlags/Tuvalu.svg",
     "options": [
       "Lesotho",
       "Central African Republic",
@@ -2280,7 +2280,7 @@
     "answer": "Tuvalu"
   },
   {
-    "image": "../images/Taiwan_Province_of_China.svg",
+    "image": "../images/CountryFlags/Taiwan_Province_of_China.svg",
     "options": [
       "Jersey",
       "Taiwan, Province of China",
@@ -2290,7 +2290,7 @@
     "answer": "Taiwan, Province of China"
   },
   {
-    "image": "../images/United_Republic_of_Tanzania.svg",
+    "image": "../images/CountryFlags/United_Republic_of_Tanzania.svg",
     "options": [
       "Cayman Islands",
       "Togo",
@@ -2300,7 +2300,7 @@
     "answer": "United Republic of Tanzania"
   },
   {
-    "image": "../images/Uganda.svg",
+    "image": "../images/CountryFlags/Uganda.svg",
     "options": [
       "Uganda",
       "Timor-Leste",
@@ -2310,7 +2310,7 @@
     "answer": "Uganda"
   },
   {
-    "image": "../images/Ukraine.svg",
+    "image": "../images/CountryFlags/Ukraine.svg",
     "options": [
       "Comoros",
       "Ukraine",
@@ -2320,7 +2320,7 @@
     "answer": "Ukraine"
   },
   {
-    "image": "../images/United_States_Minor_Outlying_Islands.svg",
+    "image": "../images/CountryFlags/United_States_Minor_Outlying_Islands.svg",
     "options": [
       "Lao People's Democratic Republic",
       "South Georgia and the South Sandwich Islands",
@@ -2330,7 +2330,7 @@
     "answer": "United States Minor Outlying Islands"
   },
   {
-    "image": "../images/Uruguay.svg",
+    "image": "../images/CountryFlags/Uruguay.svg",
     "options": [
       "Uruguay",
       "Cayman Islands",
@@ -2340,7 +2340,7 @@
     "answer": "Uruguay"
   },
   {
-    "image": "../images/United_States.svg",
+    "image": "../images/CountryFlags/United_States.svg",
     "options": [
       "Gabon",
       "Saint Vincent and the Grenadines",
@@ -2350,7 +2350,7 @@
     "answer": "United States"
   },
   {
-    "image": "../images/Uzbekistan.svg",
+    "image": "../images/CountryFlags/Uzbekistan.svg",
     "options": [
       "South Sudan",
       "Western Sahara",
@@ -2360,7 +2360,7 @@
     "answer": "Uzbekistan"
   },
   {
-    "image": "../images/Holy_See_(Vatican_City_State).svg",
+    "image": "../images/CountryFlags/Holy_See_(Vatican_City_State).svg",
     "options": [
       "Holy See (Vatican City State)",
       "Macao",
@@ -2370,7 +2370,7 @@
     "answer": "Holy See (Vatican City State)"
   },
   {
-    "image": "../images/Saint_Vincent_and_the_Grenadines.svg",
+    "image": "../images/CountryFlags/Saint_Vincent_and_the_Grenadines.svg",
     "options": [
       "Virgin Islands, British",
       "Central African Republic",
@@ -2380,7 +2380,7 @@
     "answer": "Saint Vincent and the Grenadines"
   },
   {
-    "image": "../images/Bolivarian_Republic_of_Venezuela.svg",
+    "image": "../images/CountryFlags/Bolivarian_Republic_of_Venezuela.svg",
     "options": [
       "Madagascar",
       "Bolivarian Republic of Venezuela",
@@ -2390,7 +2390,7 @@
     "answer": "Bolivarian Republic of Venezuela"
   },
   {
-    "image": "../images/Virgin_Islands_British.svg",
+    "image": "../images/CountryFlags/Virgin_Islands_British.svg",
     "options": [
       "Ethiopia",
       "Saint Pierre and Miquelon",
@@ -2400,7 +2400,7 @@
     "answer": "Virgin Islands, British"
   },
   {
-    "image": "../images/Virgin_Islands_U.S..svg",
+    "image": "../images/CountryFlags/Virgin_Islands_U.S..svg",
     "options": [
       "Pakistan",
       "Kuwait",
@@ -2410,7 +2410,7 @@
     "answer": "Virgin Islands, U.S."
   },
   {
-    "image": "../images/Viet_Nam.svg",
+    "image": "../images/CountryFlags/Viet_Nam.svg",
     "options": [
       "Viet Nam",
       "French Southern Territories",
@@ -2420,7 +2420,7 @@
     "answer": "Viet Nam"
   },
   {
-    "image": "../images/Vanuatu.svg",
+    "image": "../images/CountryFlags/Vanuatu.svg",
     "options": [
       "Vanuatu",
       "Ireland",
@@ -2430,7 +2430,7 @@
     "answer": "Vanuatu"
   },
   {
-    "image": "../images/Wallis_and_Futuna.svg",
+    "image": "../images/CountryFlags/Wallis_and_Futuna.svg",
     "options": [
       "Qatar",
       "Mauritania",
@@ -2440,7 +2440,7 @@
     "answer": "Wallis and Futuna"
   },
   {
-    "image": "../images/Samoa.svg",
+    "image": "../images/CountryFlags/Samoa.svg",
     "options": [
       "French Polynesia",
       "Uganda",
@@ -2450,7 +2450,7 @@
     "answer": "Samoa"
   },
   {
-    "image": "../images/Yemen.svg",
+    "image": "../images/CountryFlags/Yemen.svg",
     "options": [
       "Belgium",
       "Finland",
@@ -2460,7 +2460,7 @@
     "answer": "Yemen"
   },
   {
-    "image": "../images/South_Africa.svg",
+    "image": "../images/CountryFlags/South_Africa.svg",
     "options": [
       "South Africa",
       "Latvia",
@@ -2470,7 +2470,7 @@
     "answer": "South Africa"
   },
   {
-    "image": "../images/Zambia.svg",
+    "image": "../images/CountryFlags/Zambia.svg",
     "options": [
       "Guernsey",
       "Guinea",
@@ -2480,7 +2480,7 @@
     "answer": "Zambia"
   },
   {
-    "image": "../images/Zimbabwe.svg",
+    "image": "../images/CountryFlags/Zimbabwe.svg",
     "options": [
       "Viet Nam",
       "Zimbabwe",

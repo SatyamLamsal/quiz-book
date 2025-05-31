@@ -1,0 +1,36 @@
+<!-- quiz/map.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZZ5G8YJNSW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZZ5G8YJNSW');
+</script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the Capital City</title>
+  <link rel="stylesheet" href="../style.css?v=4">
+  <link rel="icon" href="../data/favicon.png?v=4" type = "image/png"/>  
+</head>
+
+<body>
+<div class = "container">  
+   <div id="score-ratio" style="margin-bottom: 10px; font-size: 1.1em; color: #f3f4f6;"></div>
+    <h2 >Choose The Capital City</h2><br>
+    <div id="Capital-Quiz-Question-Container">
+    <p id="question-text"></p><br><br><br>
+    </div>
+    <div id="options"></div> <br>
+    <p id="result"></p>
+    <button id = "NextButton" onclick="nextQuestion()">Next</button>
+    <script src="../scripts/CapitalCityQuiz.js?v=4"></script>
+</div>
+</body>
+</html>
