@@ -1,0 +1,1718 @@
+[
+  {
+    "image": "../images/Tanzania.png",
+    "question": "Which country borders Tanzania?",
+    "options": [
+      "Jamaica",
+      "Guyana",
+      "Zambia",
+      "Vietnam"
+    ],
+    "answer": "Zambia"
+  },
+  {
+    "image": "../images/W. Sahara.png",
+    "question": "Which country borders W. Sahara?",
+    "options": [
+      "Mali",
+      "Morocco",
+      "Italy",
+      "Yemen"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "image": "../images/Canada.png",
+    "question": "Which country borders Canada?",
+    "options": [
+      "Cuba",
+      "United States of America",
+      "Tajikistan",
+      "Guatemala"
+    ],
+    "answer": "United States of America"
+  },
+  {
+    "image": "../images/United States of America.png",
+    "question": "Which country borders United States of America?",
+    "options": [
+      "S. Sudan",
+      "Mexico",
+      "Slovenia",
+      "Pakistan"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "image": "../images/Kazakhstan.png",
+    "question": "Which country borders Kazakhstan?",
+    "options": [
+      "Bosnia and Herz.",
+      "Armenia",
+      "Chad",
+      "Russia"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "image": "../images/Uzbekistan.png",
+    "question": "Which country borders Uzbekistan?",
+    "options": [
+      "Benin",
+      "Mongolia",
+      "Kyrgyzstan",
+      "Laos"
+    ],
+    "answer": "Kyrgyzstan"
+  },
+  {
+    "image": "../images/Papua New Guinea.png",
+    "question": "Which country borders Papua New Guinea?",
+    "options": [
+      "Nepal",
+      "Vanuatu",
+      "Indonesia",
+      "Luxembourg"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "image": "../images/Indonesia.png",
+    "question": "Which country borders Indonesia?",
+    "options": [
+      "New Caledonia",
+      "Zimbabwe",
+      "Timor-Leste",
+      "United Kingdom"
+    ],
+    "answer": "Timor-Leste"
+  },
+  {
+    "image": "../images/Argentina.png",
+    "question": "Which country borders Argentina?",
+    "options": [
+      "Brazil",
+      "Guinea-Bissau",
+      "Madagascar",
+      "Mexico"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "image": "../images/Chile.png",
+    "question": "Which country borders Chile?",
+    "options": [
+      "Bolivia",
+      "Gabon",
+      "Syria",
+      "Eritrea"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "image": "../images/Dem. Rep. Congo.png",
+    "question": "Which country borders Dem. Rep. Congo?",
+    "options": [
+      "Fr. S. Antarctic Lands",
+      "Zimbabwe",
+      "Uganda",
+      "Guyana"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "image": "../images/Somalia.png",
+    "question": "Which country borders Somalia?",
+    "options": [
+      "Finland",
+      "Togo",
+      "Ethiopia",
+      "Kyrgyzstan"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "image": "../images/Kenya.png",
+    "question": "Which country borders Kenya?",
+    "options": [
+      "Uganda",
+      "Fr. S. Antarctic Lands",
+      "Burundi",
+      "Namibia"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "image": "../images/Sudan.png",
+    "question": "Which country borders Sudan?",
+    "options": [
+      "eSwatini",
+      "Chile",
+      "Dominican Rep.",
+      "Libya"
+    ],
+    "answer": "Libya"
+  },
+  {
+    "image": "../images/Chad.png",
+    "question": "Which country borders Chad?",
+    "options": [
+      "Netherlands",
+      "Lesotho",
+      "Burundi",
+      "Central African Rep."
+    ],
+    "answer": "Central African Rep."
+  },
+  {
+    "image": "../images/Haiti.png",
+    "question": "Which country borders Haiti?",
+    "options": [
+      "Tunisia",
+      "Dominican Rep.",
+      "Egypt",
+      "Bhutan"
+    ],
+    "answer": "Dominican Rep."
+  },
+  {
+    "image": "../images/Dominican Rep..png",
+    "question": "Which country borders Dominican Rep.?",
+    "options": [
+      "Haiti",
+      "North Macedonia",
+      "Slovenia",
+      "Togo"
+    ],
+    "answer": "Haiti"
+  },
+  {
+    "image": "../images/Russia.png",
+    "question": "Which country borders Russia?",
+    "options": [
+      "Nicaragua",
+      "Djibouti",
+      "Ukraine",
+      "Cameroon"
+    ],
+    "answer": "Ukraine"
+  },
+  {
+    "image": "../images/Norway.png",
+    "question": "Which country borders Norway?",
+    "options": [
+      "Yemen",
+      "Sweden",
+      "Cameroon",
+      "Turkmenistan"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "image": "../images/Timor-Leste.png",
+    "question": "Which country borders Timor-Leste?",
+    "options": [
+      "Japan",
+      "Indonesia",
+      "Bulgaria",
+      "Georgia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "image": "../images/South Africa.png",
+    "question": "Which country borders South Africa?",
+    "options": [
+      "Qatar",
+      "Kuwait",
+      "Botswana",
+      "Kosovo"
+    ],
+    "answer": "Botswana"
+  },
+  {
+    "image": "../images/Lesotho.png",
+    "question": "Which country borders Lesotho?",
+    "options": [
+      "South Africa",
+      "New Caledonia",
+      "Myanmar",
+      "Tanzania"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "image": "../images/Mexico.png",
+    "question": "Which country borders Mexico?",
+    "options": [
+      "Guatemala",
+      "Ukraine",
+      "Cuba",
+      "Niger"
+    ],
+    "answer": "Guatemala"
+  },
+  {
+    "image": "../images/Uruguay.png",
+    "question": "Which country borders Uruguay?",
+    "options": [
+      "Argentina",
+      "United States of America",
+      "Slovenia",
+      "Estonia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "image": "../images/Brazil.png",
+    "question": "Which country borders Brazil?",
+    "options": [
+      "Malawi",
+      "Argentina",
+      "Italy",
+      "Nepal"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "image": "../images/Bolivia.png",
+    "question": "Which country borders Bolivia?",
+    "options": [
+      "Niger",
+      "Paraguay",
+      "Lebanon",
+      "Angola"
+    ],
+    "answer": "Paraguay"
+  },
+  {
+    "image": "../images/Peru.png",
+    "question": "Which country borders Peru?",
+    "options": [
+      "Botswana",
+      "Afghanistan",
+      "Bolivia",
+      "Papua New Guinea"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "image": "../images/Colombia.png",
+    "question": "Which country borders Colombia?",
+    "options": [
+      "Czechia",
+      "Japan",
+      "Peru",
+      "Timor-Leste"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "image": "../images/Panama.png",
+    "question": "Which country borders Panama?",
+    "options": [
+      "Slovakia",
+      "Ecuador",
+      "Eritrea",
+      "Costa Rica"
+    ],
+    "answer": "Costa Rica"
+  },
+  {
+    "image": "../images/Costa Rica.png",
+    "question": "Which country borders Costa Rica?",
+    "options": [
+      "Italy",
+      "Panama",
+      "S. Sudan",
+      "Morocco"
+    ],
+    "answer": "Panama"
+  },
+  {
+    "image": "../images/Nicaragua.png",
+    "question": "Which country borders Nicaragua?",
+    "options": [
+      "Djibouti",
+      "Costa Rica",
+      "Kosovo",
+      "Iraq"
+    ],
+    "answer": "Costa Rica"
+  },
+  {
+    "image": "../images/Honduras.png",
+    "question": "Which country borders Honduras?",
+    "options": [
+      "Bahamas",
+      "Guatemala",
+      "Sri Lanka",
+      "Burundi"
+    ],
+    "answer": "Guatemala"
+  },
+  {
+    "image": "../images/El Salvador.png",
+    "question": "Which country borders El Salvador?",
+    "options": [
+      "Vietnam",
+      "Guatemala",
+      "Moldova",
+      "Bosnia and Herz."
+    ],
+    "answer": "Guatemala"
+  },
+  {
+    "image": "../images/Guatemala.png",
+    "question": "Which country borders Guatemala?",
+    "options": [
+      "El Salvador",
+      "Suriname",
+      "Turkmenistan",
+      "Austria"
+    ],
+    "answer": "El Salvador"
+  },
+  {
+    "image": "../images/Belize.png",
+    "question": "Which country borders Belize?",
+    "options": [
+      "Paraguay",
+      "Mexico",
+      "Rwanda",
+      "Somaliland"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "image": "../images/Venezuela.png",
+    "question": "Which country borders Venezuela?",
+    "options": [
+      "S. Sudan",
+      "Sudan",
+      "Turkey",
+      "Brazil"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "image": "../images/Guyana.png",
+    "question": "Which country borders Guyana?",
+    "options": [
+      "Finland",
+      "Dominican Rep.",
+      "Suriname",
+      "Lesotho"
+    ],
+    "answer": "Suriname"
+  },
+  {
+    "image": "../images/Suriname.png",
+    "question": "Which country borders Suriname?",
+    "options": [
+      "Falkland Is.",
+      "Netherlands",
+      "Brazil",
+      "Guinea"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "image": "../images/France.png",
+    "question": "Which country borders France?",
+    "options": [
+      "Zimbabwe",
+      "Belgium",
+      "Libya",
+      "Somalia"
+    ],
+    "answer": "Belgium"
+  },
+  {
+    "image": "../images/Ecuador.png",
+    "question": "Which country borders Ecuador?",
+    "options": [
+      "Bhutan",
+      "Peru",
+      "Germany",
+      "Finland"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "image": "../images/Zimbabwe.png",
+    "question": "Which country borders Zimbabwe?",
+    "options": [
+      "Yemen",
+      "Botswana",
+      "Benin",
+      "Guinea-Bissau"
+    ],
+    "answer": "Botswana"
+  },
+  {
+    "image": "../images/Botswana.png",
+    "question": "Which country borders Botswana?",
+    "options": [
+      "Bosnia and Herz.",
+      "Liberia",
+      "Eritrea",
+      "Zambia"
+    ],
+    "answer": "Zambia"
+  },
+  {
+    "image": "../images/Namibia.png",
+    "question": "Which country borders Namibia?",
+    "options": [
+      "South Africa",
+      "Ecuador",
+      "Poland",
+      "Finland"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "image": "../images/Senegal.png",
+    "question": "Which country borders Senegal?",
+    "options": [
+      "Israel",
+      "Spain",
+      "Mauritania",
+      "Moldova"
+    ],
+    "answer": "Mauritania"
+  },
+  {
+    "image": "../images/Mali.png",
+    "question": "Which country borders Mali?",
+    "options": [
+      "Kosovo",
+      "Djibouti",
+      "Poland",
+      "Burkina Faso"
+    ],
+    "answer": "Burkina Faso"
+  },
+  {
+    "image": "../images/Mauritania.png",
+    "question": "Which country borders Mauritania?",
+    "options": [
+      "Somaliland",
+      "Algeria",
+      "Latvia",
+      "Ecuador"
+    ],
+    "answer": "Algeria"
+  },
+  {
+    "image": "../images/Benin.png",
+    "question": "Which country borders Benin?",
+    "options": [
+      "Taiwan",
+      "S. Sudan",
+      "Latvia",
+      "Niger"
+    ],
+    "answer": "Niger"
+  },
+  {
+    "image": "../images/Niger.png",
+    "question": "Which country borders Niger?",
+    "options": [
+      "Somalia",
+      "Algeria",
+      "Botswana",
+      "Angola"
+    ],
+    "answer": "Algeria"
+  },
+  {
+    "image": "../images/Nigeria.png",
+    "question": "Which country borders Nigeria?",
+    "options": [
+      "Benin",
+      "Colombia",
+      "Cambodia",
+      "Papua New Guinea"
+    ],
+    "answer": "Benin"
+  },
+  {
+    "image": "../images/Cameroon.png",
+    "question": "Which country borders Cameroon?",
+    "options": [
+      "Canada",
+      "Ireland",
+      "Croatia",
+      "Central African Rep."
+    ],
+    "answer": "Central African Rep."
+  },
+  {
+    "image": "../images/Togo.png",
+    "question": "Which country borders Togo?",
+    "options": [
+      "Ghana",
+      "Paraguay",
+      "Belarus",
+      "Ireland"
+    ],
+    "answer": "Ghana"
+  },
+  {
+    "image": "../images/Ghana.png",
+    "question": "Which country borders Ghana?",
+    "options": [
+      "Egypt",
+      "Togo",
+      "Guinea",
+      "Kosovo"
+    ],
+    "answer": "Togo"
+  },
+  {
+    "image": "../images/C\u00f4te d'Ivoire.png",
+    "question": "Which country borders C\u00f4te d'Ivoire?",
+    "options": [
+      "Mali",
+      "Fr. S. Antarctic Lands",
+      "Papua New Guinea",
+      "N. Cyprus"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "image": "../images/Guinea.png",
+    "question": "Which country borders Guinea?",
+    "options": [
+      "Senegal",
+      "Canada",
+      "Dominican Rep.",
+      "Lithuania"
+    ],
+    "answer": "Senegal"
+  },
+  {
+    "image": "../images/Guinea-Bissau.png",
+    "question": "Which country borders Guinea-Bissau?",
+    "options": [
+      "North Korea",
+      "Thailand",
+      "Senegal",
+      "Gabon"
+    ],
+    "answer": "Senegal"
+  },
+  {
+    "image": "../images/Liberia.png",
+    "question": "Which country borders Liberia?",
+    "options": [
+      "Senegal",
+      "C\u00f4te d'Ivoire",
+      "Somaliland",
+      "Burundi"
+    ],
+    "answer": "C\u00f4te d'Ivoire"
+  },
+  {
+    "image": "../images/Sierra Leone.png",
+    "question": "Which country borders Sierra Leone?",
+    "options": [
+      "Iceland",
+      "Liberia",
+      "New Zealand",
+      "Eq. Guinea"
+    ],
+    "answer": "Liberia"
+  },
+  {
+    "image": "../images/Burkina Faso.png",
+    "question": "Which country borders Burkina Faso?",
+    "options": [
+      "Thailand",
+      "Latvia",
+      "Niger",
+      "Belgium"
+    ],
+    "answer": "Niger"
+  },
+  {
+    "image": "../images/Central African Rep..png",
+    "question": "Which country borders Central African Rep.?",
+    "options": [
+      "Congo",
+      "Rwanda",
+      "Malawi",
+      "Kyrgyzstan"
+    ],
+    "answer": "Congo"
+  },
+  {
+    "image": "../images/Congo.png",
+    "question": "Which country borders Congo?",
+    "options": [
+      "Azerbaijan",
+      "Cameroon",
+      "Somaliland",
+      "New Zealand"
+    ],
+    "answer": "Cameroon"
+  },
+  {
+    "image": "../images/Gabon.png",
+    "question": "Which country borders Gabon?",
+    "options": [
+      "Philippines",
+      "Congo",
+      "Netherlands",
+      "Costa Rica"
+    ],
+    "answer": "Congo"
+  },
+  {
+    "image": "../images/Eq. Guinea.png",
+    "question": "Which country borders Eq. Guinea?",
+    "options": [
+      "Australia",
+      "Gabon",
+      "Congo",
+      "Djibouti"
+    ],
+    "answer": "Gabon"
+  },
+  {
+    "image": "../images/Zambia.png",
+    "question": "Which country borders Zambia?",
+    "options": [
+      "Israel",
+      "Brazil",
+      "Angola",
+      "Czechia"
+    ],
+    "answer": "Angola"
+  },
+  {
+    "image": "../images/Malawi.png",
+    "question": "Which country borders Malawi?",
+    "options": [
+      "Kenya",
+      "Gambia",
+      "Tanzania",
+      "Netherlands"
+    ],
+    "answer": "Tanzania"
+  },
+  {
+    "image": "../images/Mozambique.png",
+    "question": "Which country borders Mozambique?",
+    "options": [
+      "Zimbabwe",
+      "Albania",
+      "Qatar",
+      "Morocco"
+    ],
+    "answer": "Zimbabwe"
+  },
+  {
+    "image": "../images/eSwatini.png",
+    "question": "Which country borders eSwatini?",
+    "options": [
+      "Sudan",
+      "Spain",
+      "Mozambique",
+      "Slovenia"
+    ],
+    "answer": "Mozambique"
+  },
+  {
+    "image": "../images/Angola.png",
+    "question": "Which country borders Angola?",
+    "options": [
+      "Dem. Rep. Congo",
+      "Botswana",
+      "Latvia",
+      "Kazakhstan"
+    ],
+    "answer": "Dem. Rep. Congo"
+  },
+  {
+    "image": "../images/Burundi.png",
+    "question": "Which country borders Burundi?",
+    "options": [
+      "Costa Rica",
+      "Dem. Rep. Congo",
+      "Tajikistan",
+      "Japan"
+    ],
+    "answer": "Dem. Rep. Congo"
+  },
+  {
+    "image": "../images/Israel.png",
+    "question": "Which country borders Israel?",
+    "options": [
+      "Bolivia",
+      "Cambodia",
+      "Bangladesh",
+      "Lebanon"
+    ],
+    "answer": "Lebanon"
+  },
+  {
+    "image": "../images/Lebanon.png",
+    "question": "Which country borders Lebanon?",
+    "options": [
+      "Suriname",
+      "Switzerland",
+      "Israel",
+      "Nicaragua"
+    ],
+    "answer": "Israel"
+  },
+  {
+    "image": "../images/Palestine.png",
+    "question": "Which country borders Palestine?",
+    "options": [
+      "Jordan",
+      "Syria",
+      "Mauritania",
+      "Denmark"
+    ],
+    "answer": "Jordan"
+  },
+  {
+    "image": "../images/Gambia.png",
+    "question": "Which country borders Gambia?",
+    "options": [
+      "Somalia",
+      "Israel",
+      "United Kingdom",
+      "Senegal"
+    ],
+    "answer": "Senegal"
+  },
+  {
+    "image": "../images/Tunisia.png",
+    "question": "Which country borders Tunisia?",
+    "options": [
+      "Puerto Rico",
+      "Bahamas",
+      "Libya",
+      "Djibouti"
+    ],
+    "answer": "Libya"
+  },
+  {
+    "image": "../images/Algeria.png",
+    "question": "Which country borders Algeria?",
+    "options": [
+      "Cuba",
+      "Poland",
+      "Oman",
+      "Tunisia"
+    ],
+    "answer": "Tunisia"
+  },
+  {
+    "image": "../images/Jordan.png",
+    "question": "Which country borders Jordan?",
+    "options": [
+      "Greenland",
+      "Vanuatu",
+      "Togo",
+      "Syria"
+    ],
+    "answer": "Syria"
+  },
+  {
+    "image": "../images/United Arab Emirates.png",
+    "question": "Which country borders United Arab Emirates?",
+    "options": [
+      "Bhutan",
+      "Oman",
+      "El Salvador",
+      "United Kingdom"
+    ],
+    "answer": "Oman"
+  },
+  {
+    "image": "../images/Qatar.png",
+    "question": "Which country borders Qatar?",
+    "options": [
+      "Saudi Arabia",
+      "Bangladesh",
+      "Cyprus",
+      "Guyana"
+    ],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "image": "../images/Kuwait.png",
+    "question": "Which country borders Kuwait?",
+    "options": [
+      "Somalia",
+      "Sierra Leone",
+      "Brunei",
+      "Iraq"
+    ],
+    "answer": "Iraq"
+  },
+  {
+    "image": "../images/Iraq.png",
+    "question": "Which country borders Iraq?",
+    "options": [
+      "El Salvador",
+      "Sri Lanka",
+      "Japan",
+      "Turkey"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "image": "../images/Oman.png",
+    "question": "Which country borders Oman?",
+    "options": [
+      "Yemen",
+      "Uganda",
+      "Hungary",
+      "Albania"
+    ],
+    "answer": "Yemen"
+  },
+  {
+    "image": "../images/Cambodia.png",
+    "question": "Which country borders Cambodia?",
+    "options": [
+      "Chile",
+      "India",
+      "Ghana",
+      "Laos"
+    ],
+    "answer": "Laos"
+  },
+  {
+    "image": "../images/Thailand.png",
+    "question": "Which country borders Thailand?",
+    "options": [
+      "Yemen",
+      "Turkmenistan",
+      "Bhutan",
+      "Myanmar"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "image": "../images/Laos.png",
+    "question": "Which country borders Laos?",
+    "options": [
+      "Cuba",
+      "Switzerland",
+      "China",
+      "Somaliland"
+    ],
+    "answer": "China"
+  },
+  {
+    "image": "../images/Myanmar.png",
+    "question": "Which country borders Myanmar?",
+    "options": [
+      "Belize",
+      "Madagascar",
+      "Bangladesh",
+      "Guatemala"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "image": "../images/Vietnam.png",
+    "question": "Which country borders Vietnam?",
+    "options": [
+      "Cambodia",
+      "Belize",
+      "Nepal",
+      "Romania"
+    ],
+    "answer": "Cambodia"
+  },
+  {
+    "image": "../images/North Korea.png",
+    "question": "Which country borders North Korea?",
+    "options": [
+      "Iceland",
+      "United Kingdom",
+      "Fiji",
+      "China"
+    ],
+    "answer": "China"
+  },
+  {
+    "image": "../images/South Korea.png",
+    "question": "Which country borders South Korea?",
+    "options": [
+      "Brazil",
+      "Chad",
+      "Estonia",
+      "North Korea"
+    ],
+    "answer": "North Korea"
+  },
+  {
+    "image": "../images/Mongolia.png",
+    "question": "Which country borders Mongolia?",
+    "options": [
+      "Bangladesh",
+      "China",
+      "Jordan",
+      "Tanzania"
+    ],
+    "answer": "China"
+  },
+  {
+    "image": "../images/India.png",
+    "question": "Which country borders India?",
+    "options": [
+      "Chile",
+      "Luxembourg",
+      "Turkmenistan",
+      "Myanmar"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "image": "../images/Bangladesh.png",
+    "question": "Which country borders Bangladesh?",
+    "options": [
+      "Turkmenistan",
+      "Italy",
+      "Sweden",
+      "Myanmar"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "image": "../images/Bhutan.png",
+    "question": "Which country borders Bhutan?",
+    "options": [
+      "United States of America",
+      "Montenegro",
+      "Japan",
+      "China"
+    ],
+    "answer": "China"
+  },
+  {
+    "image": "../images/Nepal.png",
+    "question": "Which country borders Nepal?",
+    "options": [
+      "Oman",
+      "China",
+      "Haiti",
+      "Uruguay"
+    ],
+    "answer": "China"
+  },
+  {
+    "image": "../images/Pakistan.png",
+    "question": "Which country borders Pakistan?",
+    "options": [
+      "Belgium",
+      "Iraq",
+      "Russia",
+      "Iran"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "image": "../images/Afghanistan.png",
+    "question": "Which country borders Afghanistan?",
+    "options": [
+      "Yemen",
+      "Falkland Is.",
+      "Kuwait",
+      "Iran"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "image": "../images/Tajikistan.png",
+    "question": "Which country borders Tajikistan?",
+    "options": [
+      "Brazil",
+      "China",
+      "Somaliland",
+      "United States of America"
+    ],
+    "answer": "China"
+  },
+  {
+    "image": "../images/Kyrgyzstan.png",
+    "question": "Which country borders Kyrgyzstan?",
+    "options": [
+      "Central African Rep.",
+      "Bangladesh",
+      "Brazil",
+      "China"
+    ],
+    "answer": "China"
+  },
+  {
+    "image": "../images/Turkmenistan.png",
+    "question": "Which country borders Turkmenistan?",
+    "options": [
+      "Canada",
+      "Angola",
+      "Iran",
+      "Qatar"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "image": "../images/Iran.png",
+    "question": "Which country borders Iran?",
+    "options": [
+      "Suriname",
+      "United States of America",
+      "Kyrgyzstan",
+      "Azerbaijan"
+    ],
+    "answer": "Azerbaijan"
+  },
+  {
+    "image": "../images/Syria.png",
+    "question": "Which country borders Syria?",
+    "options": [
+      "Lebanon",
+      "Guyana",
+      "Nigeria",
+      "Egypt"
+    ],
+    "answer": "Lebanon"
+  },
+  {
+    "image": "../images/Armenia.png",
+    "question": "Which country borders Armenia?",
+    "options": [
+      "eSwatini",
+      "Tunisia",
+      "Poland",
+      "Azerbaijan"
+    ],
+    "answer": "Azerbaijan"
+  },
+  {
+    "image": "../images/Sweden.png",
+    "question": "Which country borders Sweden?",
+    "options": [
+      "Oman",
+      "Finland",
+      "Sri Lanka",
+      "Georgia"
+    ],
+    "answer": "Finland"
+  },
+  {
+    "image": "../images/Belarus.png",
+    "question": "Which country borders Belarus?",
+    "options": [
+      "Bosnia and Herz.",
+      "Lithuania",
+      "France",
+      "Cyprus"
+    ],
+    "answer": "Lithuania"
+  },
+  {
+    "image": "../images/Ukraine.png",
+    "question": "Which country borders Ukraine?",
+    "options": [
+      "Panama",
+      "Haiti",
+      "Jamaica",
+      "Moldova"
+    ],
+    "answer": "Moldova"
+  },
+  {
+    "image": "../images/Poland.png",
+    "question": "Which country borders Poland?",
+    "options": [
+      "Ukraine",
+      "Venezuela",
+      "Timor-Leste",
+      "Cambodia"
+    ],
+    "answer": "Ukraine"
+  },
+  {
+    "image": "../images/Austria.png",
+    "question": "Which country borders Austria?",
+    "options": [
+      "Germany",
+      "Saudi Arabia",
+      "Mauritania",
+      "Indonesia"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "image": "../images/Hungary.png",
+    "question": "Which country borders Hungary?",
+    "options": [
+      "Croatia",
+      "Paraguay",
+      "Estonia",
+      "Cambodia"
+    ],
+    "answer": "Croatia"
+  },
+  {
+    "image": "../images/Moldova.png",
+    "question": "Which country borders Moldova?",
+    "options": [
+      "Kosovo",
+      "Belize",
+      "Mozambique",
+      "Romania"
+    ],
+    "answer": "Romania"
+  },
+  {
+    "image": "../images/Romania.png",
+    "question": "Which country borders Romania?",
+    "options": [
+      "Serbia",
+      "Malawi",
+      "Sierra Leone",
+      "El Salvador"
+    ],
+    "answer": "Serbia"
+  },
+  {
+    "image": "../images/Lithuania.png",
+    "question": "Which country borders Lithuania?",
+    "options": [
+      "Kazakhstan",
+      "Poland",
+      "Cameroon",
+      "Brazil"
+    ],
+    "answer": "Poland"
+  },
+  {
+    "image": "../images/Latvia.png",
+    "question": "Which country borders Latvia?",
+    "options": [
+      "Belarus",
+      "Peru",
+      "Guyana",
+      "Bahamas"
+    ],
+    "answer": "Belarus"
+  },
+  {
+    "image": "../images/Estonia.png",
+    "question": "Which country borders Estonia?",
+    "options": [
+      "Russia",
+      "Zimbabwe",
+      "Bangladesh",
+      "South Korea"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "image": "../images/Germany.png",
+    "question": "Which country borders Germany?",
+    "options": [
+      "New Caledonia",
+      "Netherlands",
+      "W. Sahara",
+      "Kenya"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "image": "../images/Bulgaria.png",
+    "question": "Which country borders Bulgaria?",
+    "options": [
+      "France",
+      "Greece",
+      "Panama",
+      "Bahamas"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "image": "../images/Greece.png",
+    "question": "Which country borders Greece?",
+    "options": [
+      "Bulgaria",
+      "S. Sudan",
+      "Solomon Is.",
+      "Rwanda"
+    ],
+    "answer": "Bulgaria"
+  },
+  {
+    "image": "../images/Turkey.png",
+    "question": "Which country borders Turkey?",
+    "options": [
+      "Venezuela",
+      "Czechia",
+      "Poland",
+      "Armenia"
+    ],
+    "answer": "Armenia"
+  },
+  {
+    "image": "../images/Albania.png",
+    "question": "Which country borders Albania?",
+    "options": [
+      "Greece",
+      "Nepal",
+      "Iraq",
+      "Zimbabwe"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "image": "../images/Croatia.png",
+    "question": "Which country borders Croatia?",
+    "options": [
+      "Jamaica",
+      "Timor-Leste",
+      "Mexico",
+      "Hungary"
+    ],
+    "answer": "Hungary"
+  },
+  {
+    "image": "../images/Switzerland.png",
+    "question": "Which country borders Switzerland?",
+    "options": [
+      "Kosovo",
+      "Iceland",
+      "Italy",
+      "Bhutan"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "image": "../images/Luxembourg.png",
+    "question": "Which country borders Luxembourg?",
+    "options": [
+      "Italy",
+      "Nepal",
+      "Belgium",
+      "Ecuador"
+    ],
+    "answer": "Belgium"
+  },
+  {
+    "image": "../images/Belgium.png",
+    "question": "Which country borders Belgium?",
+    "options": [
+      "Germany",
+      "Dem. Rep. Congo",
+      "Togo",
+      "Ecuador"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "image": "../images/Netherlands.png",
+    "question": "Which country borders Netherlands?",
+    "options": [
+      "Cameroon",
+      "Germany",
+      "Ghana",
+      "Guinea"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "image": "../images/Portugal.png",
+    "question": "Which country borders Portugal?",
+    "options": [
+      "Azerbaijan",
+      "Senegal",
+      "Argentina",
+      "Spain"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "image": "../images/Spain.png",
+    "question": "Which country borders Spain?",
+    "options": [
+      "Switzerland",
+      "Botswana",
+      "Madagascar",
+      "France"
+    ],
+    "answer": "France"
+  },
+  {
+    "image": "../images/Ireland.png",
+    "question": "Which country borders Ireland?",
+    "options": [
+      "Guyana",
+      "United Kingdom",
+      "Saudi Arabia",
+      "C\u00f4te d'Ivoire"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "image": "../images/China.png",
+    "question": "Which country borders China?",
+    "options": [
+      "Vanuatu",
+      "Italy",
+      "Zambia",
+      "Tajikistan"
+    ],
+    "answer": "Tajikistan"
+  },
+  {
+    "image": "../images/Italy.png",
+    "question": "Which country borders Italy?",
+    "options": [
+      "Turkmenistan",
+      "Switzerland",
+      "Angola",
+      "Nicaragua"
+    ],
+    "answer": "Switzerland"
+  },
+  {
+    "image": "../images/Denmark.png",
+    "question": "Which country borders Denmark?",
+    "options": [
+      "Austria",
+      "Slovenia",
+      "Trinidad and Tobago",
+      "Germany"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "image": "../images/United Kingdom.png",
+    "question": "Which country borders United Kingdom?",
+    "options": [
+      "Ireland",
+      "Rwanda",
+      "Myanmar",
+      "Gambia"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "image": "../images/Azerbaijan.png",
+    "question": "Which country borders Azerbaijan?",
+    "options": [
+      "Croatia",
+      "Russia",
+      "Belgium",
+      "Venezuela"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "image": "../images/Georgia.png",
+    "question": "Which country borders Georgia?",
+    "options": [
+      "Greece",
+      "New Caledonia",
+      "Lebanon",
+      "Russia"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "image": "../images/Malaysia.png",
+    "question": "Which country borders Malaysia?",
+    "options": [
+      "Georgia",
+      "Bolivia",
+      "Brunei",
+      "Somaliland"
+    ],
+    "answer": "Brunei"
+  },
+  {
+    "image": "../images/Brunei.png",
+    "question": "Which country borders Brunei?",
+    "options": [
+      "Costa Rica",
+      "Poland",
+      "Malaysia",
+      "Haiti"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "image": "../images/Slovenia.png",
+    "question": "Which country borders Slovenia?",
+    "options": [
+      "Guinea",
+      "Italy",
+      "Taiwan",
+      "Mali"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "image": "../images/Finland.png",
+    "question": "Which country borders Finland?",
+    "options": [
+      "United Kingdom",
+      "Sweden",
+      "Fr. S. Antarctic Lands",
+      "Botswana"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "image": "../images/Slovakia.png",
+    "question": "Which country borders Slovakia?",
+    "options": [
+      "Botswana",
+      "Hungary",
+      "Belgium",
+      "Estonia"
+    ],
+    "answer": "Hungary"
+  },
+  {
+    "image": "../images/Czechia.png",
+    "question": "Which country borders Czechia?",
+    "options": [
+      "Guinea",
+      "Cyprus",
+      "Slovakia",
+      "South Africa"
+    ],
+    "answer": "Slovakia"
+  },
+  {
+    "image": "../images/Eritrea.png",
+    "question": "Which country borders Eritrea?",
+    "options": [
+      "N. Cyprus",
+      "Pakistan",
+      "Angola",
+      "Djibouti"
+    ],
+    "answer": "Djibouti"
+  },
+  {
+    "image": "../images/Paraguay.png",
+    "question": "Which country borders Paraguay?",
+    "options": [
+      "Brazil",
+      "Finland",
+      "Chad",
+      "Zimbabwe"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "image": "../images/Yemen.png",
+    "question": "Which country borders Yemen?",
+    "options": [
+      "Oman",
+      "Mongolia",
+      "Sweden",
+      "Croatia"
+    ],
+    "answer": "Oman"
+  },
+  {
+    "image": "../images/Saudi Arabia.png",
+    "question": "Which country borders Saudi Arabia?",
+    "options": [
+      "Malawi",
+      "Iraq",
+      "El Salvador",
+      "Fr. S. Antarctic Lands"
+    ],
+    "answer": "Iraq"
+  },
+  {
+    "image": "../images/N. Cyprus.png",
+    "question": "Which country borders N. Cyprus?",
+    "options": [
+      "Finland",
+      "Guyana",
+      "Cuba",
+      "Cyprus"
+    ],
+    "answer": "Cyprus"
+  },
+  {
+    "image": "../images/Cyprus.png",
+    "question": "Which country borders Cyprus?",
+    "options": [
+      "Sri Lanka",
+      "Vietnam",
+      "Argentina",
+      "N. Cyprus"
+    ],
+    "answer": "N. Cyprus"
+  },
+  {
+    "image": "../images/Morocco.png",
+    "question": "Which country borders Morocco?",
+    "options": [
+      "Brunei",
+      "Eritrea",
+      "W. Sahara",
+      "New Zealand"
+    ],
+    "answer": "W. Sahara"
+  },
+  {
+    "image": "../images/Egypt.png",
+    "question": "Which country borders Egypt?",
+    "options": [
+      "Switzerland",
+      "Somaliland",
+      "Israel",
+      "Venezuela"
+    ],
+    "answer": "Israel"
+  },
+  {
+    "image": "../images/Libya.png",
+    "question": "Which country borders Libya?",
+    "options": [
+      "Egypt",
+      "North Korea",
+      "Malawi",
+      "Kyrgyzstan"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "image": "../images/Ethiopia.png",
+    "question": "Which country borders Ethiopia?",
+    "options": [
+      "Peru",
+      "Kenya",
+      "Haiti",
+      "Myanmar"
+    ],
+    "answer": "Kenya"
+  },
+  {
+    "image": "../images/Djibouti.png",
+    "question": "Which country borders Djibouti?",
+    "options": [
+      "Eritrea",
+      "Tanzania",
+      "Argentina",
+      "Mauritania"
+    ],
+    "answer": "Eritrea"
+  },
+  {
+    "image": "../images/Somaliland.png",
+    "question": "Which country borders Somaliland?",
+    "options": [
+      "Ethiopia",
+      "Hungary",
+      "Latvia",
+      "Botswana"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "image": "../images/Uganda.png",
+    "question": "Which country borders Uganda?",
+    "options": [
+      "Estonia",
+      "Qatar",
+      "Chad",
+      "Tanzania"
+    ],
+    "answer": "Tanzania"
+  },
+  {
+    "image": "../images/Rwanda.png",
+    "question": "Which country borders Rwanda?",
+    "options": [
+      "Kazakhstan",
+      "Indonesia",
+      "N. Cyprus",
+      "Uganda"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "image": "../images/Bosnia and Herz..png",
+    "question": "Which country borders Bosnia and Herz.?",
+    "options": [
+      "Saudi Arabia",
+      "Botswana",
+      "Croatia",
+      "Oman"
+    ],
+    "answer": "Croatia"
+  },
+  {
+    "image": "../images/North Macedonia.png",
+    "question": "Which country borders North Macedonia?",
+    "options": [
+      "Tajikistan",
+      "Serbia",
+      "Uruguay",
+      "Switzerland"
+    ],
+    "answer": "Serbia"
+  },
+  {
+    "image": "../images/Serbia.png",
+    "question": "Which country borders Serbia?",
+    "options": [
+      "Croatia",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Cameroon"
+    ],
+    "answer": "Croatia"
+  },
+  {
+    "image": "../images/Montenegro.png",
+    "question": "Which country borders Montenegro?",
+    "options": [
+      "Slovenia",
+      "Bosnia and Herz.",
+      "Jamaica",
+      "Belgium"
+    ],
+    "answer": "Bosnia and Herz."
+  },
+  {
+    "image": "../images/Kosovo.png",
+    "question": "Which country borders Kosovo?",
+    "options": [
+      "Serbia",
+      "Nepal",
+      "Zimbabwe",
+      "Oman"
+    ],
+    "answer": "Serbia"
+  },
+  {
+    "image": "../images/S. Sudan.png",
+    "question": "Which country borders S. Sudan?",
+    "options": [
+      "Ethiopia",
+      "Iran",
+      "Romania",
+      "Germany"
+    ],
+    "answer": "Ethiopia"
+  }
+]
