@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz Result</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      background-color: #0f172a;
+      color: #f8fafc;
+      padding: 30px;
+    }
+
+    #username-input {
+      padding: 12px;
+      width: 90%;
+      max-width: 320px;
+      border-radius: 10px;
+      border: none;
+      background-color: #1e293b;
+      color: white;
+      font-size: 1.1em;
+      margin-bottom: 18px;
+    }
+
+    button {
+      background-color: #2563eb;
+      color: white;
+      padding: 12px 20px;
+      font-size: 1em;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      margin-top: 12px;
+    }
+
+    .score {
+      font-size: 2.2em;
+      font-weight: bold;
+      color: gold;
+      margin-top: 16px;
+    }
+
+    .name {
+      font-size: 1.5em;
+      font-weight: bold;
+      color: gold;
+      text-shadow: 1px 1px 5px black;
+    }
+
+    .share-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 14px;
+      margin-top: 24px;
+      flex-wrap: wrap;
+    }
+
+    .share-buttons button {
+      background-color: #1e293b;
+      color: white;
+      padding: 10px 16px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      font-size: 1em;
+      transition: background 0.2s;
+    }
+
+    .share-buttons button:hover {
+      background-color: #3b82f6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container" id="resultContainer">
+    <!-- Content is loaded via JavaScript -->
+  </div>
+
+  <!-- html2canvas library -->
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+  <script>
+    const container = document.getElementById("resultContainer");
+
+    const score = parseInt(sessionStorage.getItem("score") || 15);
+    const total = parseInt(sessionStorage.getItem("total") || 16);
+    const quiz = sessionStorage.getItem("quiz") || "Flag Quiz";
+
+    // Fix for auto-increment issue: display attempted count, not total
+    const attemptedCount = Math.max(total - 1, score);  // Prevent 0
+
+    let name = localStorage.getItem("username");
+
+    if (!name) {
+      container.innerHTML = `
+        <h2 style="font-size: 1.5em;">Enter Your Name</h2>
+        <input type="text" id="username-input" placeholder="Your Name..." />
+        <br>
+        <button id="saveName">Continue</button>
+      `;
+
+      document.getElementById("saveName").addEventListener("click", () => {
+        const input = document.getElementById("username-input");
+        const enteredName = input.value.trim();
+        if (!enteredName) return alert("Please enter your name");
+
+        localStorage.setItem("username", enteredName);
+        name = enteredName;
+        renderResultPage();
+      });
+    } else {
+      renderResultPage();
+    }
+
+    function renderResultPage() {
+      container.innerHTML = `
+        <h2 style="font-size: 2em;">🎉 Congratulations!</h2>
+        <div class="score">${score} / ${attemptedCount}</div>
+        <p style="margin-top: 20px;"> <span class="name">${name}</span> scored <strong>${score}</strong> out of <strong>${attemptedCount}</strong> in <em>${quiz}</em> at <br><span style= "color:#7777FF;">quiz-book.me.<span></p>
+        <div class="share-buttons">
+          <button onclick="saveAsImage()">📷 Save Image</button>
+          <button onclick="shareOnFacebook()">📤 Share</button>
+        </div>
+      `;
+    }
+
+    function saveAsImage() {
+      html2canvas(container).then(canvas => {
+        canvas.toBlob(function(blob) {
+          const link = document.createElement('a');
+          link.download = 'quiz_result.png';
+          link.href = URL.createObjectURL(blob);
+          link.click();
+          URL.revokeObjectURL(link.href);
+        });
+      }).catch(e => alert('Error capturing image: ' + e));
+    }
+
+    function shareOnFacebook() {
+      const url = encodeURIComponent(window.location.href);
+      const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+      window.open(fbUrl, '_blank');
+    }
+  </script>
+</body>
+</html>

@@ -79,3 +79,16 @@ function nextQuestion()
   current++;
   loadQuestion();
 }
+
+
+document.getElementById("FinishButton").onclick = function () {
+  const confirmQuit = confirm("Are you sure you want to quit the quiz?");
+  if (confirmQuit) {
+    // Save score to session storage
+    sessionStorage.setItem("score", `${correctFirstTry}`);
+    sessionStorage.setItem("total", `${totalQuestions}`);
+    sessionStorage.setItem("quiz", "Capital Quiz"); // Or change based on quiz type
+    // Redirect to results page
+    window.location.href = "../result.html";
+  }
+};
