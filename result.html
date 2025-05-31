@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Quiz Result</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="./data/favicon.png" type="image/png">
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -140,11 +141,27 @@
       }).catch(e => alert('Error capturing image: ' + e));
     }
 
-    function shareOnFacebook() {
-      const url = encodeURIComponent(window.location.href);
-      const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
-      window.open(fbUrl, '_blank');
-    }
+   function shareOnFacebook() {
+  html2canvas(container).then(canvas => {
+    canvas.toBlob(function(blob) {
+      const imageURL = URL.createObjectURL(blob);
+
+      // Download image first
+      const link = document.createElement('a');
+      link.download = 'quiz_result.png';
+      link.href = imageURL;
+      link.click();
+
+      // Then open Facebook post page
+      setTimeout(() => {
+        alert("Your scorecard has been downloaded.\nNow upload it manually in the Facebook post window.");
+        window.open("https://www.facebook.com/", "_blank");
+      }, 800);
+
+    });
+  }).catch(e => alert('Error capturing image: ' + e));
+}
+
   </script>
 </body>
 </html>

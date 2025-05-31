@@ -87,7 +87,7 @@ document.getElementById("FinishButton").onclick = function () {
     // Save score to session storage
     sessionStorage.setItem("score", `${correctFirstTry}`);
     sessionStorage.setItem("total", `${totalQuestions}`);
-    sessionStorage.setItem("quiz", "Capital Quiz"); // Or change based on quiz type
+    sessionStorage.setItem("quiz", "Capital City Quiz"); // Or change based on quiz type
 
     // Redirect to results page
     window.location.href = "../result.html";
